@@ -1,0 +1,137 @@
+{
+  "frequency": "Q",
+  "indicator_id": "vn_real_gdp_yoy",
+  "input_mode": "compiled_release",
+  "notes": "The National Statistics Office (NSO) was formerly the General Statistics Office (GSO).",
+  "observations": [
+    {
+      "date": "2023-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2023Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2024/02/socio-economic-situation-in-the-fourth-quarter-and-2023/",
+      "value": 5.47
+    },
+    {
+      "date": "2023-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2023Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2024/02/socio-economic-situation-in-the-fourth-quarter-and-2023/",
+      "value": 6.72
+    },
+    {
+      "date": "2024-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2024Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/highlight/2025/02/socio-economic-situation-in-the-fourth-quarter-and-2024/",
+      "value": 5.98
+    },
+    {
+      "date": "2024-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2024Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/highlight/2025/02/socio-economic-situation-in-the-fourth-quarter-and-2024/",
+      "value": 7.25
+    },
+    {
+      "date": "2024-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2024Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/highlight/2025/02/socio-economic-situation-in-the-fourth-quarter-and-2024/",
+      "value": 7.43
+    },
+    {
+      "date": "2024-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2024Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/highlight/2025/02/socio-economic-situation-in-the-fourth-quarter-and-2024/",
+      "value": 7.55
+    },
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2025Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/01/press-release-social-economic-situation-in-the-fourth-quarter-and-2025/",
+      "value": 7.05
+    },
+    {
+      "date": "2025-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2025Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/01/press-release-social-economic-situation-in-the-fourth-quarter-and-2025/",
+      "value": 8.16
+    },
+    {
+      "date": "2025-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2025Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/01/press-release-social-economic-situation-in-the-fourth-quarter-and-2025/",
+      "value": 8.25
+    },
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2025Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/01/press-release-social-economic-situation-in-the-fourth-quarter-and-2025/",
+      "value": 8.46
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2026Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/en/data-and-statistics/2026/04/report-on-socio-economic-situation-in-quarter-i-in-2026/",
+      "value": 7.83
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Statistics Office of Vietnam",
+      "period": "2026Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nso.gov.vn/du-lieu-va-so-lieu-thong-ke/2026/07/thong-cao-bao-chi-ve-tinh-hinh-kinh-te-xa-hoi-quy-ii-va-sau-thang-dau-nam-2026/",
+      "value": 8.39
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "nso_vietnam_gdp_release",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  }
+}

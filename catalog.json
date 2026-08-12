@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-08-12T14:58:13Z",
+  "generated_at": "2026-08-12T18:17:04Z",
   "input_modes": [
     "compiled_release",
     "raw_response"
   ],
   "series": [
+    {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "cn_real_gdp_yoy",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q2",
+      "notes": "",
+      "observation_count": 12,
+      "path": "series/cn_real_gdp_yoy.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "nbs_china_gdp_release",
+      "source_note": "compiled from public releases",
+      "unit": "%"
+    },
     {
       "earliest_period": "1991Q2",
       "frequency": "Q",
@@ -314,6 +328,34 @@
       "unit": "%"
     },
     {
+      "earliest_period": "2000Q1",
+      "frequency": "Q",
+      "indicator_id": "hk_real_gdp_yoy",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "Latest quarter may be an advance estimate; revised figures follow ~2 weeks later.",
+      "observation_count": 106,
+      "path": "series/hk_real_gdp_yoy.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "hk_censtatd_api",
+      "source_note": "Hong Kong Census and Statistics Department (C&SD) open data",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "id_real_gdp_yoy",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q2",
+      "notes": "",
+      "observation_count": 12,
+      "path": "series/id_real_gdp_yoy.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "bps_indonesia_gdp_release",
+      "source_note": "compiled from public releases",
+      "unit": "%"
+    },
+    {
       "earliest_period": "1995Q2",
       "frequency": "Q",
       "indicator_id": "ie_real_gdp_qoq",
@@ -356,6 +398,20 @@
       "unit": "%"
     },
     {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "in_real_gdp_yoy",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q1",
+      "notes": "Real GDP at constant 2022–23 prices; the axis uses calendar quarters while each observation preserves MoSPI's fiscal-quarter label.",
+      "observation_count": 11,
+      "path": "series/in_real_gdp_yoy.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "mospi_india_gdp_release",
+      "source_note": "compiled from public releases",
+      "unit": "%"
+    },
+    {
       "earliest_period": "1996Q2",
       "frequency": "Q",
       "indicator_id": "it_real_gdp_qoq",
@@ -395,6 +451,34 @@
       "public_status": "PUBLIC_EXACT_RELEASE",
       "source_id": "boj_mopo_statements",
       "source_note": "Bank of Japan (BOJ)",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "jp_real_gdp_qoq_saar",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q1",
+      "notes": "SECOND PRELIMINARY estimates per quarter, as-released basis.",
+      "observation_count": 11,
+      "path": "series/jp_real_gdp_qoq_saar.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "esri_japan_gdp_release",
+      "source_note": "compiled from public releases",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "kr_real_gdp_yoy",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q2",
+      "notes": "",
+      "observation_count": 12,
+      "path": "series/kr_real_gdp_yoy.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "bok_korea_gdp_release",
+      "source_note": "compiled from public releases",
       "unit": "%"
     },
     {
@@ -1182,6 +1266,20 @@
       "unit": "%"
     },
     {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "th_real_gdp_yoy",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q1",
+      "notes": "",
+      "observation_count": 11,
+      "path": "series/th_real_gdp_yoy.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "nesdc_thailand_gdp_release",
+      "source_note": "compiled from public releases",
+      "unit": "%"
+    },
+    {
       "earliest_period": "2026-07",
       "frequency": "M",
       "indicator_id": "tw_cpi_headline_yoy",
@@ -1630,6 +1728,20 @@
       "unit": "%"
     },
     {
+      "earliest_period": "2023Q3",
+      "frequency": "Q",
+      "indicator_id": "vn_real_gdp_yoy",
+      "input_mode": "compiled_release",
+      "latest_period": "2026Q2",
+      "notes": "The National Statistics Office (NSO) was formerly the General Statistics Office (GSO).",
+      "observation_count": 12,
+      "path": "series/vn_real_gdp_yoy.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "nso_vietnam_gdp_release",
+      "source_note": "compiled from public releases",
+      "unit": "%"
+    },
+    {
       "earliest_period": "2025",
       "frequency": "A",
       "indicator_id": "weo_gdp_forecast_china",
@@ -2008,5 +2120,5 @@
       "unit": "USD per barrel"
     }
   ],
-  "series_count": 143
+  "series_count": 151
 }

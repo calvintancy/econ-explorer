@@ -1,17 +1,17 @@
 id,family_title,indicator,scope,frequency,status
 F01-01,External economies — GDP,Real GDP growth,US,Q,PUBLIC_EXACT_API
 F01-02,External economies — GDP,Real GDP growth,Eurozone,Q,PUBLIC_EXACT_API
-F01-03,External economies — GDP,Real GDP growth,Japan,Q,PUBLIC_EXACT_API
-F01-04,External economies — GDP,Real GDP growth,China,Q,PUBLIC_EXACT_API
-F01-05,External economies — GDP,Real GDP growth,South Korea,Q,PUBLIC_EXACT_API
+F01-03,External economies — GDP,Real GDP growth,Japan,Q,PUBLIC_COMPILED_RELEASES
+F01-04,External economies — GDP,Real GDP growth,China,Q,PUBLIC_COMPILED_RELEASES
+F01-05,External economies — GDP,Real GDP growth,South Korea,Q,PUBLIC_COMPILED_RELEASES
 F01-06,External economies — GDP,Real GDP growth,Taiwan,Q,PUBLIC_EXACT_API
 F01-07,External economies — GDP,Real GDP growth,Hong Kong,Q,PUBLIC_EXACT_API
-F01-08,External economies — GDP,Real GDP growth,Indonesia,Q,PUBLIC_EXACT_API
+F01-08,External economies — GDP,Real GDP growth,Indonesia,Q,PUBLIC_COMPILED_RELEASES
 F01-09,External economies — GDP,Real GDP growth,Malaysia,Q,PUBLIC_EXACT_API
 F01-10,External economies — GDP,Real GDP growth,Philippines,Q,PUBLIC_EXACT_API
-F01-11,External economies — GDP,Real GDP growth,Thailand,Q,PUBLIC_EXACT_API
-F01-12,External economies — GDP,Real GDP growth,Vietnam,Q,PUBLIC_EXACT_API
-F01-13,External economies — GDP,Real GDP growth (fiscal-year basis footnoted),India,Q,PUBLIC_EXACT_API
+F01-11,External economies — GDP,Real GDP growth,Thailand,Q,PUBLIC_COMPILED_RELEASES
+F01-12,External economies — GDP,Real GDP growth,Vietnam,Q,PUBLIC_COMPILED_RELEASES
+F01-13,External economies — GDP,Real GDP growth (fiscal-year basis footnoted),India,Q,PUBLIC_COMPILED_RELEASES
 F01-14,External economies — GDP,"GDP expenditure decomposition (private consumption, GFCF, inventories, govt, exports, imports; ppt contributions)",all F01 economies where public,Q,PUBLIC_EXACT_API
 F01-15,External economies — GDP,"Full-year GDP actuals and forecasts, provider-labelled and vintage-preserved",all F01 economies,A,PUBLIC_COMPILED_RELEASES
 F01-16,External economies — GDP,GDP forecast-revision table (upgraded/downgraded economies with stated reasons),all F01 economies,per vintage,PUBLIC_COMPILED_RELEASES

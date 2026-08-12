@@ -1,0 +1,127 @@
+{
+  "frequency": "Q",
+  "indicator_id": "th_real_gdp_yoy",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2023-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2023Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2025/06/03-article_file_20250217091923.pdf",
+      "value": 1.6
+    },
+    {
+      "date": "2023-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2023Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2025/06/03-article_file_20250217091923.pdf",
+      "value": 1.8
+    },
+    {
+      "date": "2024-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2024Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 2.1
+    },
+    {
+      "date": "2024-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2024Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 2.7
+    },
+    {
+      "date": "2024-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2024Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 3.3
+    },
+    {
+      "date": "2024-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2024Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 3.7
+    },
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2025Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 3.1
+    },
+    {
+      "date": "2025-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2025Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 2.8
+    },
+    {
+      "date": "2025-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2025Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 1.2
+    },
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2025Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 2.5
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Economic and Social Development Council (NESDC), Thailand",
+      "period": "2026Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.nesdc.go.th/wordpress/wp-content/uploads/2026/05/BookQGDP1-2569-ENG.pdf",
+      "value": 2.8
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "nesdc_thailand_gdp_release",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  }
+}

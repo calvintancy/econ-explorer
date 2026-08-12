@@ -1,0 +1,149 @@
+{
+  "frequency": "Q",
+  "indicator_id": "id_real_gdp_yoy",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2023-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in Q3 2024; latest official comparison base for Q3 2023",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2023Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2024/11/05/2382",
+      "value": 4.95
+    },
+    {
+      "date": "2023-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, GDP Growth Rate in Q4 2023",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2023Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2024/02/05/2379",
+      "value": 5.04
+    },
+    {
+      "date": "2024-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Indonesia Quarterly Gross Domestic Product 2020–2024; historical table",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2024Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/publication/2024/10/09/7290b829d2eaa972e4968d19/produk-domestik-brutoindonesiatriwulanan-2020-2024.html",
+      "value": 5.11
+    },
+    {
+      "date": "2024-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Indonesia Quarterly Gross Domestic Product 2020–2024; historical table",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2024Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/publication/2024/10/09/7290b829d2eaa972e4968d19/produk-domestik-brutoindonesiatriwulanan-2020-2024.html",
+      "value": 5.05
+    },
+    {
+      "date": "2024-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in Q3 2024; comparison with the same quarter of 2023",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2024Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2024/11/05/2382",
+      "value": 4.95
+    },
+    {
+      "date": "2024-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth 2024 and Q4 2024",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2024Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2025/02/05/2408/indonesia-s-economic-growth-2024-was-5-03-percent",
+      "value": 5.02
+    },
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in Q1 2025",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2025Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2025/05/05/2431/ekonomi-indonesia-triwulan-i-2025-tumbuh-4-87-persen%E2%80%93y-on-y%E2%80%93-ekonomi-indonesia-triwulan-i-2025-terkontraksi-0-98-persen%E2%80%93q-to-q%E2%80%93.html",
+      "value": 4.87
+    },
+    {
+      "date": "2025-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in Q2 2025",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2025Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2025/08/05/2455/ekonomi-indonesia-triwulan-ii-2025-tumbuh-4-04-persen-q-to-q-5-12-persen-y-on-y-semester-i-2025-tumbuh-4-99-persen-c-to-c-.html",
+      "value": 5.12
+    },
+    {
+      "date": "2025-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in Q3 2025",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2025Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2025/11/05/2478/ekonomi-indonesia-triwulan-iii-2025-tumbuh.html",
+      "value": 5.04
+    },
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in 2025 and Q4 2025",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2025Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2026/02/05/2546/indonesia-s-economic-growth-in-2025-was-5-11-percent",
+      "value": 5.39
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "BPS, Economic Growth in Q1 2026",
+      "outlet": "BPS Statistics Indonesia",
+      "period": "2026Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bps.go.id/en/pressrelease/2026/05/05/2575/ekonomi-indonesia-triwulan-i-2026-tumbuh-5-61-persen--y-on-y-.html",
+      "value": 5.61
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "notes": "official BPS release URL to be substituted when indexed",
+      "outlet": "RRI",
+      "period": "2026Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://rri.co.id/tags/pertumbuhan-ekonomi-indonesia-triwulan-ii-2026",
+      "value": 5.29
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "bps_indonesia_gdp_release",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  }
+}

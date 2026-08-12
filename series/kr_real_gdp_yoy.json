@@ -1,0 +1,137 @@
+{
+  "frequency": "Q",
+  "indicator_id": "kr_real_gdp_yoy",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2023-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2023Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10094905&programType=newsDataEng&relate=Y",
+      "value": 1.5
+    },
+    {
+      "date": "2023-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2023Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10094905&programType=newsDataEng&relate=Y",
+      "value": 2.2
+    },
+    {
+      "date": "2024-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2024Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 3.4
+    },
+    {
+      "date": "2024-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2024Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 2.2
+    },
+    {
+      "date": "2024-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2024Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 1.4
+    },
+    {
+      "date": "2024-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2024Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 1.1
+    },
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2025Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 0.0
+    },
+    {
+      "date": "2025-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2025Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 0.6
+    },
+    {
+      "date": "2025-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2025Q3",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 1.8
+    },
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2025Q4",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400423&menuNo=400423&nttId=10096875&programType=newsDataEng&relate=Y",
+      "value": 1.6
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2026Q1",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?menuNo=400069&nttId=10098385",
+      "value": 3.8
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Bank of Korea",
+      "period": "2026Q2",
+      "release_date": "2026-08-13",
+      "source_url": "https://www.bok.or.kr/eng/bbs/E0000634/view.do?depth=400069&menuNo=400069&nttId=11063106&oldMenuNo=400007&programType=newsDataEng&relate=Y",
+      "value": 3.7
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "bok_korea_gdp_release",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  }
+}
