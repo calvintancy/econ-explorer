@@ -1658,12 +1658,26 @@
       "unit": "%"
     },
     {
+      "earliest_period": "2025",
+      "frequency": "A",
+      "indicator_id": "weo_gdp_forecast_hong_kong_sar",
+      "input_mode": "compiled_release",
+      "latest_period": "2027",
+      "notes": "The January and July 2026 WEO Updates omit point forecasts for Hong Kong SAR; headline observations therefore use the April 2026 full-WEO vintage.",
+      "observation_count": 3,
+      "path": "series/weo_gdp_forecast_hong_kong_sar.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "weo_press_compiled",
+      "source_note": "International Monetary Fund (IMF) World Economic Outlook — compiled from public release coverage",
+      "unit": "%"
+    },
+    {
       "earliest_period": "2026",
       "frequency": "A",
       "indicator_id": "weo_gdp_forecast_india",
       "input_mode": "compiled_release",
       "latest_period": "2027",
-      "notes": "Calendar-year equivalents are used where the IMF footnote states them. The headline fiscal-year forecasts were FY2025/26 7.7% and FY2026/27 6.4% in the July update, and FY2025/26 7.3% and FY2026/27 6.4% in the January update; calendar-2025 equivalents were not stated.",
+      "notes": "Calendar-year equivalents are used where the IMF footnote states them. The headline fiscal-year forecasts were FY2025/26 7.7% and FY2026/27 6.4% in the July update, and FY2025/26 7.3% and FY2026/27 6.4% in the January update; calendar-2025 equivalents were not stated. The October 2025 WEO values are FY2025/26 6.6% and FY2026/27 6.2%; no calendar-year equivalents were stated, so those fiscal-year observations retain explicit FY labels and are not used as calendar-year headlines.",
       "observation_count": 2,
       "path": "series/weo_gdp_forecast_india.json",
       "public_status": "PUBLIC_COMPILED_RELEASES",
@@ -1744,6 +1758,20 @@
     {
       "earliest_period": "2025",
       "frequency": "A",
+      "indicator_id": "weo_gdp_forecast_taiwan",
+      "input_mode": "compiled_release",
+      "latest_period": "2027",
+      "notes": "The January and July 2026 WEO Updates omit point forecasts for Taiwan; headline observations therefore use the April 2026 full-WEO vintage.",
+      "observation_count": 3,
+      "path": "series/weo_gdp_forecast_taiwan.json",
+      "public_status": "PUBLIC_COMPILED_RELEASES",
+      "source_id": "weo_press_compiled",
+      "source_note": "International Monetary Fund (IMF) World Economic Outlook — compiled from public release coverage",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "2025",
+      "frequency": "A",
       "indicator_id": "weo_gdp_forecast_thailand",
       "input_mode": "compiled_release",
       "latest_period": "2027",
@@ -1770,13 +1798,13 @@
       "unit": "%"
     },
     {
-      "earliest_period": "2026",
+      "earliest_period": "2025",
       "frequency": "A",
       "indicator_id": "weo_gdp_forecast_vietnam",
       "input_mode": "compiled_release",
-      "latest_period": "2026",
-      "notes": "",
-      "observation_count": 1,
+      "latest_period": "2027",
+      "notes": "The selected-economy tables in the January and July 2026 WEO Updates omit Vietnam. The July Update narrative supplies a 2026 point forecast, so the 2025 and 2027 headline observations use the April 2026 full-WEO vintage.",
+      "observation_count": 3,
       "path": "series/weo_gdp_forecast_vietnam.json",
       "public_status": "PUBLIC_COMPILED_RELEASES",
       "source_id": "weo_press_compiled",
@@ -1980,5 +2008,5 @@
       "unit": "USD per barrel"
     }
   ],
-  "series_count": 141
+  "series_count": 143
 }

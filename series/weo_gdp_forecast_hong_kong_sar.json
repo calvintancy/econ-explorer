@@ -1,9 +1,9 @@
 {
-  "economy": "Vietnam",
+  "economy": "Hong Kong SAR",
   "frequency": "A",
-  "indicator_id": "weo_gdp_forecast_vietnam",
+  "indicator_id": "weo_gdp_forecast_hong_kong_sar",
   "input_mode": "compiled_release",
-  "notes": "The selected-economy tables in the January and July 2026 WEO Updates omit Vietnam. The July Update narrative supplies a 2026 point forecast, so the 2025 and 2027 headline observations use the April 2026 full-WEO vintage.",
+  "notes": "The January and July 2026 WEO Updates omit point forecasts for Hong Kong SAR; headline observations therefore use the April 2026 full-WEO vintage.",
   "observations": [
     {
       "date": "2025-01-01",
@@ -16,8 +16,8 @@
       "outlet": "UK Department for Business and Trade",
       "period": "2025",
       "release_date": "2026-04-14",
-      "source_url": "https://assets.publishing.service.gov.uk/media/6a35083d6422bec01b117809/vietnam-trade-and-investment-factsheet-2026-06-23.pdf",
-      "value": 8.0
+      "source_url": "https://assets.publishing.service.gov.uk/media/6a01f59481a251700a20b3c8/hong-kong-sar-trade-and-investment-factsheet-2026-05-14.pdf",
+      "value": 3.5
     },
     {
       "date": "2026-01-01",
@@ -25,13 +25,13 @@
       "extraction_method": "compiled_release",
       "forecast_period_label": "2026",
       "forecast_provider": "IMF WEO",
-      "forecast_vintage": "2026-07 Update",
+      "forecast_vintage": "2026-04 WEO",
       "is_forecast": true,
-      "outlet": "IMF eLibrary official release mirror (narrative only)",
+      "outlet": "UK Department for Business and Trade",
       "period": "2026",
-      "release_date": "2026-07-09",
-      "source_url": "https://www.elibrary.imf.org/abstract/book/9798229047999/CH001.xml",
-      "value": 7.5
+      "release_date": "2026-04-14",
+      "source_url": "https://assets.publishing.service.gov.uk/media/6a01f59481a251700a20b3c8/hong-kong-sar-trade-and-investment-factsheet-2026-05-14.pdf",
+      "value": 2.4
     },
     {
       "date": "2027-01-01",
@@ -44,8 +44,8 @@
       "outlet": "UK Department for Business and Trade",
       "period": "2027",
       "release_date": "2026-04-14",
-      "source_url": "https://assets.publishing.service.gov.uk/media/6a35083d6422bec01b117809/vietnam-trade-and-investment-factsheet-2026-06-23.pdf",
-      "value": 6.7
+      "source_url": "https://assets.publishing.service.gov.uk/media/6a01f59481a251700a20b3c8/hong-kong-sar-trade-and-investment-factsheet-2026-05-14.pdf",
+      "value": 2.4
     }
   ],
   "public_status": "PUBLIC_COMPILED_RELEASES",
@@ -66,11 +66,11 @@
       "forecast_provider": "IMF WEO",
       "forecast_vintage": "2025-10 WEO",
       "is_forecast": true,
-      "outlet": "IMF 2025 Article IV press release",
+      "outlet": "China Daily Hong Kong",
       "period": "2025",
       "release_date": "2025-10-14",
-      "source_url": "https://www.imf.org/en/news/articles/2025/09/15/pr-25296-vietnam-imf-executive-board-concludes-2025-article-iv-consultation",
-      "value": 6.5
+      "source_url": "https://www.chinadailyhk.com/hk/article/622332",
+      "value": 2.4
     },
     {
       "date": "2026-01-01",
@@ -80,25 +80,11 @@
       "forecast_provider": "IMF WEO",
       "forecast_vintage": "2025-10 WEO",
       "is_forecast": true,
-      "outlet": "IMF 2025 Article IV press release",
+      "outlet": "China Daily Hong Kong",
       "period": "2026",
       "release_date": "2025-10-14",
-      "source_url": "https://www.imf.org/en/news/articles/2025/09/15/pr-25296-vietnam-imf-executive-board-concludes-2025-article-iv-consultation",
-      "value": 5.6
-    },
-    {
-      "date": "2026-01-01",
-      "extraction_confidence": "MEDIUM",
-      "extraction_method": "compiled_release",
-      "forecast_period_label": "2026",
-      "forecast_provider": "IMF WEO",
-      "forecast_vintage": "2026-04 WEO",
-      "is_forecast": true,
-      "outlet": "UK Department for Business and Trade",
-      "period": "2026",
-      "release_date": "2026-04-14",
-      "source_url": "https://assets.publishing.service.gov.uk/media/6a35083d6422bec01b117809/vietnam-trade-and-investment-factsheet-2026-06-23.pdf",
-      "value": 7.1
+      "source_url": "https://www.chinadailyhk.com/hk/article/622332",
+      "value": 2.1
     }
   ]
 }
