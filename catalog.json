@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:34:57Z",
+  "generated_at": "2026-08-12T14:58:13Z",
   "input_modes": [
     "compiled_release",
     "raw_response"
@@ -720,6 +720,34 @@
       "unit": "index (2014=100)"
     },
     {
+      "earliest_period": "1992Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_citizen_unemployment_rate",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: Citizen Unemployment Rate",
+      "observation_count": 138,
+      "path": "series/sg_citizen_unemployment_rate.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "1992Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_citizen_unemployment_rate_sa",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: Citizen Unemployment Rate, (SA)",
+      "observation_count": 138,
+      "path": "series/sg_citizen_unemployment_rate_sa.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
+    },
+    {
       "earliest_period": "1995-01",
       "frequency": "M",
       "indicator_id": "sg_container_throughput_teu",
@@ -958,6 +986,20 @@
       "unit": "%"
     },
     {
+      "earliest_period": "1992Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_overall_unemployment_rate_sa",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: Total Unemployment Rate, (SA)",
+      "observation_count": 138,
+      "path": "series/sg_overall_unemployment_rate_sa.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
+    },
+    {
       "earliest_period": "1975Q1",
       "frequency": "Q",
       "indicator_id": "sg_private_residential_ppi",
@@ -994,6 +1036,34 @@
       "notes": "SingStat row: GDP In Chained (2015) Dollars",
       "observation_count": 202,
       "path": "series/sg_real_gdp_yoy.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "1992Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_resident_unemployment_rate",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: Resident Unemployment Rate",
+      "observation_count": 138,
+      "path": "series/sg_resident_unemployment_rate.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "1992Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_resident_unemployment_rate_sa",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: Resident Unemployment Rate, (SA)",
+      "observation_count": 138,
+      "path": "series/sg_resident_unemployment_rate_sa.json",
       "public_status": "PUBLIC_EXACT_API",
       "source_id": "sg_singstat_tablebuilder",
       "source_note": "Singapore Department of Statistics (SingStat)",
@@ -1910,5 +1980,5 @@
       "unit": "USD per barrel"
     }
   ],
-  "series_count": 136
+  "series_count": 141
 }

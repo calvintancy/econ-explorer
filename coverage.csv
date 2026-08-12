@@ -99,12 +99,9 @@ F08-14,Energy & commodity markets,Persian Gulf share of global energy and fertil
 F08-15,Energy & commodity markets,Channels of ME-conflict impact on food prices (4 channels: biofuel demand; farm diesel; processing electricity; fertiliser→yields),global,n/a,REQUIREMENT
 F08-16,Energy & commodity markets,Natural gas,Europe,M (D restricted),NEEDS_REVIEW
 F09-01,Singapore food prices,CPI: food; food excl. food services; food services,SG,M,PUBLIC_EXACT_API
-F09-02,Singapore food prices,Frequently-purchased-items price index (no public source identified),SG,M,UNAVAILABLE
-F09-03,Singapore food prices,"Weekly supermarket price index, key food items tier 1 (no public source identified)",SG,W,UNAVAILABLE
 F09-04,Singapore food prices,Imported food price index (food and live animals),SG,M/Q,PUBLIC_EXACT_API
 F09-05,Singapore food prices,"Food-services price index (hawker centres, food courts, coffee shops)",SG,M,PUBLIC_EXACT_API
 F09-06,Singapore food prices,Global→SG food-price transmission set (Buckets 1→2→3 aligned),SG,M,PUBLIC_RECONSTRUCTED
-F09-07,Singapore food prices,"Weekly supermarket price index, key food items tier 2 (no public source identified)",SG,W,UNAVAILABLE
 F10-01,Shock-monitor framework (descoped),Module component (removed from scope by owner decision),,,DESCOPED
 F10-02,Shock-monitor framework (descoped),Module component (removed from scope by owner decision),,,DESCOPED
 F10-03,Shock-monitor framework (descoped),Module component (removed from scope by owner decision),,,DESCOPED
@@ -117,8 +114,6 @@ F11-02,Singapore GDP & growth,"GDP by sector: manufacturing, construction, servi
 F11-03,Singapore GDP & growth,Official Singapore GDP forecast range (release vintages),,per release,PUBLIC_EXACT_RELEASE
 F11-04,Singapore GDP & growth,"NODX: total, electronics/non-electronics, by market",,M,PUBLIC_EXACT_API
 F11-05,Singapore GDP & growth,"Total merchandise trade (X, M, balance)",,M,PUBLIC_EXACT_API
-F11-06,Singapore GDP & growth,Quarterly GDP nowcast (no public source; any future analogue would be separately labelled),,Q,UNAVAILABLE
-F11-07,Singapore GDP & growth,Qualitative company-visit summaries (no public source),,Q,UNAVAILABLE
 F12-01,Singapore labour market,"Employment change: total, residents, non-residents",,Q (+M where published),PUBLIC_EXACT_API
 F12-02,Singapore labour market,"Unemployment rates: overall, resident, citizen (sa); annual trend reviews",,Q/M,PUBLIC_EXACT_API
 F12-03,Singapore labour market,Retrenchments,,Q,PUBLIC_EXACT_API
@@ -142,7 +137,6 @@ F14-01,Singapore business sentiment & confidence,Business Expectations Survey,,Q
 F14-02,Singapore business sentiment & confidence,Business Expectations Survey,,Q,PUBLIC_EXACT_API
 F14-03,Singapore business sentiment & confidence,Business confidence index (publisher unidentified; candidates under review),,M,NEEDS_REVIEW
 F14-04,Singapore business sentiment & confidence,Consumer confidence index (publisher unidentified; candidates under review),,M/Q,NEEDS_REVIEW
-F14-05,Singapore business sentiment & confidence,News-based economic sentiment index (no public source identified),,M,UNAVAILABLE
 F14-06,Singapore business sentiment & confidence,Corporate health index (publisher unidentified; public candidates under review),,M/Q,NEEDS_REVIEW
 F14-08,Singapore business sentiment & confidence,Corporate distress index (publisher unidentified; public candidates under review),,M/Q,NEEDS_REVIEW
 F15-01,China-specific indicators,Industrial production,,M,PUBLIC_EXACT_API
