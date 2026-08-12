@@ -1,34 +1,34 @@
 id,family_title,indicator,scope,frequency,status
-F01-01,External economies — GDP,Real GDP growth,US,Q,PUBLIC_EXACT_API
-F01-02,External economies — GDP,Real GDP growth,Eurozone,Q,PUBLIC_EXACT_API
-F01-03,External economies — GDP,Real GDP growth,Japan,Q,PUBLIC_EXACT_API
-F01-04,External economies — GDP,Real GDP growth,China,Q,PUBLIC_EXACT_API
-F01-05,External economies — GDP,Real GDP growth,South Korea,Q,PUBLIC_EXACT_API
-F01-06,External economies — GDP,Real GDP growth,Taiwan,Q,PUBLIC_EXACT_API
-F01-07,External economies — GDP,Real GDP growth,Hong Kong,Q,PUBLIC_EXACT_API
-F01-08,External economies — GDP,Real GDP growth,Indonesia,Q,PUBLIC_EXACT_API
-F01-09,External economies — GDP,Real GDP growth,Malaysia,Q,PUBLIC_EXACT_API
-F01-10,External economies — GDP,Real GDP growth,Philippines,Q,PUBLIC_EXACT_API
-F01-11,External economies — GDP,Real GDP growth,Thailand,Q,PUBLIC_EXACT_API
-F01-12,External economies — GDP,Real GDP growth,Vietnam,Q,PUBLIC_EXACT_API
-F01-13,External economies — GDP,Real GDP growth (fiscal-year basis footnoted),India,Q,PUBLIC_EXACT_API
-F01-14,External economies — GDP,"GDP expenditure decomposition (private consumption, GFCF, inventories, govt, exports, imports; ppt contributions)",all F01 economies where public,Q,PUBLIC_EXACT_API
-F01-15,External economies — GDP,"Full-year GDP actuals and forecasts, provider-labelled and vintage-preserved",all F01 economies,A,PUBLIC_COMPILED_RELEASES
-F01-16,External economies — GDP,GDP forecast-revision table (upgraded/downgraded economies with stated reasons),all F01 economies,per vintage,PUBLIC_COMPILED_RELEASES
-F01-17,External economies — GDP,Advance/preliminary vs revised GDP estimate tracking,"US, SG, others w/ advance cycle",Q,PUBLIC_EXACT_API
-F01-18,External economies — GDP,"US federal government shutdown, Oct–Nov 2025 (data-release disruptions; CBO cost scenarios)",US,event,PUBLIC_EXACT_RELEASE
-F02-01,External economies — trade & exports,Merchandise exports (rolling 10-month table + full history),"US, CN, KR, TW, HK + all other F01 economies + SG",M,PUBLIC_EXACT_API
-F02-02,External economies — trade & exports,Merchandise imports,same,M,PUBLIC_EXACT_API
-F02-03,External economies — trade & exports,Trade balance,same,M,PUBLIC_EXACT_API
-F02-04,External economies — trade & exports,Exports by destination (incl. China US vs non-US split; EZ/JP exposure views),major exporters,M,PUBLIC_EXACT_API
-F02-05,External economies — trade & exports,"Merchandise exports to US as % of GDP (exposure metric, by economy)",Asian economies + EZ,A/Q,PUBLIC_EXACT_API
-F02-06,External economies — trade & exports,Intra-East Asia trade (trade diversion / supply-chain adjustment view),region,Q,PUBLIC_RECONSTRUCTED
-F02-07,External economies — trade & exports,AI-related goods exports by origin economy (documented HS-code basket),project economy list,Q,PUBLIC_RECONSTRUCTED
-F02-08,External economies — trade & exports,"Global merchandise trade growth (full-year actual + projection, e.g. 6.3% in 2025)",world,A/Q,PUBLIC_EXACT_DOWNLOAD
-F02-09,External economies — trade & exports,Semiconductor and AI-chip exports,"TW, KR (+SG cross-ref F11)",M,PUBLIC_EXACT_RELEASE
-F02-10,External economies — trade & exports,US merchandise imports: monthly yoy + quarterly 1Q24–4Q25 (1Q25 front-loading surge),US,M/Q,PUBLIC_EXACT_API
-F02-11,External economies — trade & exports,US trade balance (merchandise deficit trends),US,M,PUBLIC_EXACT_API
-F02-12,External economies — trade & exports,"Average merchandise trade balance with US, 2018–2023, by economy (ranking)",partners,static,PUBLIC_EXACT_API
+F01-01,External economies,Real GDP growth,US,Q,PUBLIC_EXACT_API
+F01-02,External economies,Real GDP growth,Eurozone,Q,PUBLIC_EXACT_API
+F01-03,External economies,Real GDP growth,Japan,Q,PUBLIC_EXACT_API
+F01-04,External economies,Real GDP growth,China,Q,PUBLIC_EXACT_API
+F01-05,External economies,Real GDP growth,South Korea,Q,PUBLIC_EXACT_API
+F01-06,External economies,Real GDP growth,Taiwan,Q,PUBLIC_EXACT_API
+F01-07,External economies,Real GDP growth,Hong Kong,Q,PUBLIC_EXACT_API
+F01-08,External economies,Real GDP growth,Indonesia,Q,PUBLIC_EXACT_API
+F01-09,External economies,Real GDP growth,Malaysia,Q,PUBLIC_EXACT_API
+F01-10,External economies,Real GDP growth,Philippines,Q,PUBLIC_EXACT_API
+F01-11,External economies,Real GDP growth,Thailand,Q,PUBLIC_EXACT_API
+F01-12,External economies,Real GDP growth,Vietnam,Q,PUBLIC_EXACT_API
+F01-13,External economies,Real GDP growth (fiscal-year basis footnoted),India,Q,PUBLIC_EXACT_API
+F01-14,External economies,"GDP expenditure decomposition (private consumption, GFCF, inventories, govt, exports, imports; ppt contributions)",all F01 economies where public,Q,PUBLIC_EXACT_API
+F01-15,External economies,"Full-year GDP actuals and forecasts, provider-labelled and vintage-preserved",all F01 economies,A,PUBLIC_COMPILED_RELEASES
+F01-16,External economies,GDP forecast-revision table (upgraded/downgraded economies with stated reasons),all F01 economies,per vintage,PUBLIC_COMPILED_RELEASES
+F01-17,External economies,Advance/preliminary vs revised GDP estimate tracking,"US, SG, others w/ advance cycle",Q,PUBLIC_EXACT_API
+F01-18,External economies,"US federal government shutdown, Oct–Nov 2025 (data-release disruptions; CBO cost scenarios)",US,event,PUBLIC_EXACT_RELEASE
+F02-01,External economies,Merchandise exports (rolling 10-month table + full history),"US, CN, KR, TW, HK + all other F01 economies + SG",M,PUBLIC_EXACT_API
+F02-02,External economies,Merchandise imports,same,M,PUBLIC_EXACT_API
+F02-03,External economies,Trade balance,same,M,PUBLIC_EXACT_API
+F02-04,External economies,Exports by destination (incl. China US vs non-US split; EZ/JP exposure views),major exporters,M,PUBLIC_EXACT_API
+F02-05,External economies,"Merchandise exports to US as % of GDP (exposure metric, by economy)",Asian economies + EZ,A/Q,PUBLIC_EXACT_API
+F02-06,External economies,Intra-East Asia trade (trade diversion / supply-chain adjustment view),region,Q,PUBLIC_RECONSTRUCTED
+F02-07,External economies,AI-related goods exports by origin economy (documented HS-code basket),project economy list,Q,PUBLIC_RECONSTRUCTED
+F02-08,External economies,"Global merchandise trade growth (full-year actual + projection, e.g. 6.3% in 2025)",world,A/Q,PUBLIC_EXACT_DOWNLOAD
+F02-09,External economies,Semiconductor and AI-chip exports,"TW, KR (+SG cross-ref F11)",M,PUBLIC_EXACT_RELEASE
+F02-10,External economies,US merchandise imports: monthly yoy + quarterly 1Q24–4Q25 (1Q25 front-loading surge),US,M/Q,PUBLIC_EXACT_API
+F02-11,External economies,US trade balance (merchandise deficit trends),US,M,PUBLIC_EXACT_API
+F02-12,External economies,"Average merchandise trade balance with US, 2018–2023, by economy (ranking)",partners,static,PUBLIC_EXACT_API
 F03-01,Purchasing Managers' Indices,Manufacturing PMI (official NBS),China,M,PUBLIC_EXACT_RELEASE
 F03-02,Purchasing Managers' Indices,Manufacturing PMI (ISM),US,M,PUBLIC_EXACT_DOWNLOAD
 F03-03,Purchasing Managers' Indices,Manufacturing PMI table set (mixed public routes by economy),7 economies,M,PUBLIC_COMPILED_RELEASES
@@ -105,13 +105,13 @@ F09-04,Singapore food prices,Imported food price index (food and live animals),S
 F09-05,Singapore food prices,"Food-services price index (hawker centres, food courts, coffee shops)",SG,M,PUBLIC_EXACT_API
 F09-06,Singapore food prices,Global→SG food-price transmission set (Buckets 1→2→3 aligned),SG,M,PUBLIC_RECONSTRUCTED
 F09-07,Singapore food prices,"Weekly supermarket price index, key food items tier 2 (no public source identified)",SG,W,UNAVAILABLE
-F10-01,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
-F10-02,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
-F10-03,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
-F10-04,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
-F10-05,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
-F10-06,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
-F10-07,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-01,,,,,DESCOPED
+F10-02,,,,,DESCOPED
+F10-03,,,,,DESCOPED
+F10-04,,,,,DESCOPED
+F10-05,,,,,DESCOPED
+F10-06,,,,,DESCOPED
+F10-07,,,,,DESCOPED
 F11-01,Singapore GDP & growth,"Real GDP growth: quarterly + full-year; advance estimates vs final, explicitly flagged",,Q,PUBLIC_EXACT_API
 F11-02,Singapore GDP & growth,"GDP by sector: manufacturing, construction, services detail (finance & insurance, wholesale & retail, transport & storage, accommodation & food, infocomm, …)",,Q,PUBLIC_EXACT_API
 F11-03,Singapore GDP & growth,Official Singapore GDP forecast range (release vintages),,per release,PUBLIC_EXACT_RELEASE
@@ -166,10 +166,10 @@ F16-07,Eurozone-specific indicators,Merchandise exports incl. US-tariff exposure
 F16-08,Eurozone-specific indicators,Negotiated wages / labour costs,,Q,PUBLIC_EXACT_API
 F16-09,Eurozone-specific indicators,"GDP by country: Germany, France, Spain, Italy, Ireland",,Q,PUBLIC_EXACT_API
 F16-10,Eurozone-specific indicators,Eurozone inflation expectations,,M/Q,PUBLIC_EXACT_API
-F17-01,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**",Story template: 3–6 live charts + concise analytical narrative + source notes + methodology + publication/update dates,,,DESCOPED
-F17-02,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**","Story data-binding: charts are live app components on snapshot data, not screenshots",,,DESCOPED
-F17-03,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**",Story index page + maintainable authoring format (Markdown/MDX),,,DESCOPED
-F17-04,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**",Launch-content candidates reproducing the original story list where data permit: Trump 2.0 tariff impact (Mar 25); Exposure to US reciprocal tariffs (Apr 25); State of the US economy (Jun 25); Sea freight rates (Jul 25); US tariff pass-through & labour market (Sep 25); Thai economy & political volatility (Sep 25); China exports & US imports (Oct 25); US K-shaped economy (Jan 26); Global merchandise trade 2025 (Jan 26); US-Israel-Iran conflict impact (Mar–Jul 26); Indonesia outlook (Jun–Jul 26),,,DESCOPED
+F17-01,,Story template: 3–6 live charts + concise analytical narrative + source notes + methodology + publication/update dates,,,DESCOPED
+F17-02,,"Story data-binding: charts are live app components on snapshot data, not screenshots",,,DESCOPED
+F17-03,,Story index page + maintainable authoring format (Markdown/MDX),,,DESCOPED
+F17-04,,Launch-content candidates reproducing the original story list where data permit: Trump 2.0 tariff impact (Mar 25); Exposure to US reciprocal tariffs (Apr 25); State of the US economy (Jun 25); Sea freight rates (Jul 25); US tariff pass-through & labour market (Sep 25); Thai economy & political volatility (Sep 25); China exports & US imports (Oct 25); US K-shaped economy (Jan 26); Global merchandise trade 2025 (Jan 26); US-Israel-Iran conflict impact (Mar–Jul 26); Indonesia outlook (Jun–Jul 26),,,DESCOPED
 F18-01,High-frequency dashboard panels & product structure,"Overview modules: global growth, trade, inflation, manufacturing, financial conditions, energy, SG growth/inflation/labour/mfg, current risks",,,REQUIREMENT
 F18-02,High-frequency dashboard panels & product structure,"Singapore summary table: GDP, NODX, IIP, retail sales, F&B, sea cargo, loans, visitor arrivals, unemployment, employment growth, MAS Core Inflation, FPI",,,REQUIREMENT
 F18-03,High-frequency dashboard panels & product structure,"Risk module: bullet list, 3–4 mechanistic downside risks (cause → channel → impact) + occasional upside (e.g. AI investment boom); opening-line conventions per inventory",,,REQUIREMENT

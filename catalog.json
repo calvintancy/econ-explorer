@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:20:57Z",
+  "generated_at": "2026-08-12T13:34:57Z",
   "input_modes": [
     "compiled_release",
     "raw_response"
@@ -676,6 +676,34 @@
       "source_id": "sg_singstat_tablebuilder",
       "source_note": "Singapore Department of Statistics (SingStat)",
       "unit": "S$ million"
+    },
+    {
+      "earliest_period": "1970Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_bes_manufacturing",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: General Business Expectations (Forecast For Next 6 Months)",
+      "observation_count": 226,
+      "path": "series/sg_bes_manufacturing.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
+    },
+    {
+      "earliest_period": "1995Q1",
+      "frequency": "Q",
+      "indicator_id": "sg_bes_services",
+      "input_mode": "raw_response",
+      "latest_period": "2026Q2",
+      "notes": "SingStat row: Total Services Sector",
+      "observation_count": 126,
+      "path": "series/sg_bes_services.json",
+      "public_status": "PUBLIC_EXACT_API",
+      "source_id": "sg_singstat_tablebuilder",
+      "source_note": "Singapore Department of Statistics (SingStat)",
+      "unit": "%"
     },
     {
       "earliest_period": "2002Q1",
@@ -1882,5 +1910,5 @@
       "unit": "USD per barrel"
     }
   ],
-  "series_count": 134
+  "series_count": 136
 }
