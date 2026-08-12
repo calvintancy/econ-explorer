@@ -1,0 +1,117 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_china_nbs_manufacturing",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2025-10",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 49.0
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2025-11",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 49.2
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2025-12",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 50.1
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2026-01",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 49.3
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2026-02",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 49.0
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2026-03",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 50.4
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2026-04",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 50.3
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2026-05",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 50.0
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "National Bureau of Statistics of China (NBS)",
+      "period": "2026-06",
+      "release_date": "2026-06-30",
+      "source_url": "https://www.stats.gov.cn/english/PressRelease/202607/t20260701_1964047.html",
+      "value": 50.3
+    },
+    {
+      "date": "2026-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Associated Press (reporting NBS release)",
+      "period": "2026-07",
+      "release_date": "2026-07-31",
+      "source_url": "https://apnews.com/article/a9a5016ca01d4f65e0491ff5327c0a11",
+      "value": 49.2
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "nbs_china_pmi_release",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

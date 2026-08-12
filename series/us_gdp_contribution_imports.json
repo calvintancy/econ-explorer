@@ -1,0 +1,247 @@
+{
+  "frequency": "Q",
+  "indicator_id": "us_gdp_contribution_imports",
+  "input_mode": "raw_response",
+  "notes": "BEA NIPA T10102; SeriesCode A021RY; Imports",
+  "observations": [
+    {
+      "date": "2015-01-01",
+      "period": "2015Q1",
+      "value": -0.94
+    },
+    {
+      "date": "2015-04-01",
+      "period": "2015Q2",
+      "value": -0.48
+    },
+    {
+      "date": "2015-07-01",
+      "period": "2015Q3",
+      "value": -0.41
+    },
+    {
+      "date": "2015-10-01",
+      "period": "2015Q4",
+      "value": -0.16
+    },
+    {
+      "date": "2016-01-01",
+      "period": "2016Q1",
+      "value": 0.09
+    },
+    {
+      "date": "2016-04-01",
+      "period": "2016Q2",
+      "value": -0.06
+    },
+    {
+      "date": "2016-07-01",
+      "period": "2016Q3",
+      "value": -0.41
+    },
+    {
+      "date": "2016-10-01",
+      "period": "2016Q4",
+      "value": -0.82
+    },
+    {
+      "date": "2017-01-01",
+      "period": "2017Q1",
+      "value": -0.9
+    },
+    {
+      "date": "2017-04-01",
+      "period": "2017Q2",
+      "value": -0.56
+    },
+    {
+      "date": "2017-07-01",
+      "period": "2017Q3",
+      "value": -0.22
+    },
+    {
+      "date": "2017-10-01",
+      "period": "2017Q4",
+      "value": -1.66
+    },
+    {
+      "date": "2018-01-01",
+      "period": "2018Q1",
+      "value": -0.26
+    },
+    {
+      "date": "2018-04-01",
+      "period": "2018Q2",
+      "value": -0.08
+    },
+    {
+      "date": "2018-07-01",
+      "period": "2018Q3",
+      "value": -0.85
+    },
+    {
+      "date": "2018-10-01",
+      "period": "2018Q4",
+      "value": -0.63
+    },
+    {
+      "date": "2019-01-01",
+      "period": "2019Q1",
+      "value": 0.05
+    },
+    {
+      "date": "2019-04-01",
+      "period": "2019Q2",
+      "value": -0.32
+    },
+    {
+      "date": "2019-07-01",
+      "period": "2019Q3",
+      "value": 0.26
+    },
+    {
+      "date": "2019-10-01",
+      "period": "2019Q4",
+      "value": 1.06
+    },
+    {
+      "date": "2020-01-01",
+      "period": "2020Q1",
+      "value": 1.96
+    },
+    {
+      "date": "2020-04-01",
+      "period": "2020Q2",
+      "value": 9.45
+    },
+    {
+      "date": "2020-07-01",
+      "period": "2020Q3",
+      "value": -7.36
+    },
+    {
+      "date": "2020-10-01",
+      "period": "2020Q4",
+      "value": -3.88
+    },
+    {
+      "date": "2021-01-01",
+      "period": "2021Q1",
+      "value": -1.08
+    },
+    {
+      "date": "2021-04-01",
+      "period": "2021Q2",
+      "value": -1.23
+    },
+    {
+      "date": "2021-07-01",
+      "period": "2021Q3",
+      "value": -0.93
+    },
+    {
+      "date": "2021-10-01",
+      "period": "2021Q4",
+      "value": -2.86
+    },
+    {
+      "date": "2022-01-01",
+      "period": "2022Q1",
+      "value": -1.71
+    },
+    {
+      "date": "2022-04-01",
+      "period": "2022Q2",
+      "value": -1.07
+    },
+    {
+      "date": "2022-07-01",
+      "period": "2022Q3",
+      "value": 0.94
+    },
+    {
+      "date": "2022-10-01",
+      "period": "2022Q4",
+      "value": 0.47
+    },
+    {
+      "date": "2023-01-01",
+      "period": "2023Q1",
+      "value": 0.14
+    },
+    {
+      "date": "2023-04-01",
+      "period": "2023Q2",
+      "value": 0.3
+    },
+    {
+      "date": "2023-07-01",
+      "period": "2023Q3",
+      "value": -0.4
+    },
+    {
+      "date": "2023-10-01",
+      "period": "2023Q4",
+      "value": -0.72
+    },
+    {
+      "date": "2024-01-01",
+      "period": "2024Q1",
+      "value": -0.91
+    },
+    {
+      "date": "2024-04-01",
+      "period": "2024Q2",
+      "value": -1.11
+    },
+    {
+      "date": "2024-07-01",
+      "period": "2024Q3",
+      "value": -1.36
+    },
+    {
+      "date": "2024-10-01",
+      "period": "2024Q4",
+      "value": 0.03
+    },
+    {
+      "date": "2025-01-01",
+      "period": "2025Q1",
+      "value": -4.7
+    },
+    {
+      "date": "2025-04-01",
+      "period": "2025Q2",
+      "value": 5.03
+    },
+    {
+      "date": "2025-07-01",
+      "period": "2025Q3",
+      "value": 0.62
+    },
+    {
+      "date": "2025-10-01",
+      "period": "2025Q4",
+      "value": 0.13
+    },
+    {
+      "date": "2026-01-01",
+      "period": "2026Q1",
+      "value": -1.49
+    },
+    {
+      "date": "2026-04-01",
+      "period": "2026Q2",
+      "value": -1.51
+    }
+  ],
+  "public_status": "PUBLIC_EXACT_API",
+  "retrieved_at": "2026-08-12T07:38:02Z",
+  "source_id": "bea_nipa_api",
+  "source_note": "U.S. Bureau of Economic Analysis (BEA)",
+  "units": {
+    "seasonal_adjustment": "SAAR",
+    "transformation": "contribution",
+    "unit": "percentage points"
+  }
+}

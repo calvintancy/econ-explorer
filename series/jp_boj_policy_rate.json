@@ -1,0 +1,22 @@
+{
+  "frequency": "D",
+  "indicator_id": "jp_boj_policy_rate",
+  "input_mode": "raw_response",
+  "notes": "BOJ statement target for the uncollateralized overnight call rate",
+  "observations": [
+    {
+      "date": "2026-07-31",
+      "period": "2026-07-31",
+      "value": 1.0
+    }
+  ],
+  "public_status": "PUBLIC_EXACT_RELEASE",
+  "retrieved_at": "2026-08-12T09:36:16Z",
+  "source_id": "boj_mopo_statements",
+  "source_note": "Bank of Japan (BOJ)",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "level",
+    "unit": "%"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "frequency": "M",
+  "indicator_id": "tw_cpi_headline_yoy",
+  "input_mode": "raw_response",
+  "notes": "DGBAS monthly Price Indices release; headline CPI yoy",
+  "observations": [
+    {
+      "date": "2026-07-01",
+      "period": "2026-07",
+      "value": 2.54
+    }
+  ],
+  "public_status": "PUBLIC_EXACT_RELEASE",
+  "retrieved_at": "2026-08-12T09:41:14Z",
+  "source_id": "dgbas_taiwan_news",
+  "source_note": "Directorate-General of Budget, Accounting and Statistics (DGBAS), Taiwan",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  }
+}

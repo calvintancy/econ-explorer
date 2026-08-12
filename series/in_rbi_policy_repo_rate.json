@@ -1,0 +1,22 @@
+{
+  "frequency": "D",
+  "indicator_id": "in_rbi_policy_repo_rate",
+  "input_mode": "raw_response",
+  "notes": "RBI homepage Current Rates widget; policy repo rate as of retrieval",
+  "observations": [
+    {
+      "date": "2026-08-12",
+      "period": "2026-08-12",
+      "value": 5.25
+    }
+  ],
+  "public_status": "PUBLIC_EXACT_RELEASE",
+  "retrieved_at": "2026-08-12T09:37:17Z",
+  "source_id": "rbi_current_rates",
+  "source_note": "Reserve Bank of India (RBI)",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "level",
+    "unit": "%"
+  }
+}

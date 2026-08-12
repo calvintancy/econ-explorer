@@ -1,0 +1,98 @@
+{
+  "economy": "Japan",
+  "frequency": "A",
+  "indicator_id": "weo_gdp_forecast_japan",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via MarketScreener",
+      "period": "2025",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.marketscreener.com/news/imf-edges-2026-global-growth-forecast-lower-to-3-sees-rebound-in-2027-ce7f5ed9d88ff621",
+      "value": 1.1
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via MarketScreener",
+      "period": "2026",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.marketscreener.com/news/imf-edges-2026-global-growth-forecast-lower-to-3-sees-rebound-in-2027-ce7f5ed9d88ff621",
+      "value": 0.6
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via MarketScreener",
+      "period": "2027",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.marketscreener.com/news/imf-edges-2026-global-growth-forecast-lower-to-3-sees-rebound-in-2027-ce7f5ed9d88ff621",
+      "value": 0.7
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "weo_press_compiled",
+  "source_note": "International Monetary Fund (IMF) World Economic Outlook — compiled from public release coverage",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  },
+  "vintages": [
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via Investing.com",
+      "period": "2025",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.investing.com/news/economy-news/imf-revises-up-japans-growth-forecast-sees-inflation-moderating-4453554",
+      "value": 1.1
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via Investing.com",
+      "period": "2026",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.investing.com/news/economy-news/imf-revises-up-japans-growth-forecast-sees-inflation-moderating-4453554",
+      "value": 0.7
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via Investing.com",
+      "period": "2027",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.investing.com/news/economy-news/imf-revises-up-japans-growth-forecast-sees-inflation-moderating-4453554",
+      "value": 0.6
+    }
+  ]
+}

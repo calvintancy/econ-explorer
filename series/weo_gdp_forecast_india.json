@@ -1,0 +1,72 @@
+{
+  "economy": "India",
+  "frequency": "A",
+  "indicator_id": "weo_gdp_forecast_india",
+  "input_mode": "compiled_release",
+  "notes": "Calendar-year equivalents are used where the IMF footnote states them. The headline fiscal-year forecasts were FY2025/26 7.7% and FY2026/27 6.4% in the July update, and FY2025/26 7.3% and FY2026/27 6.4% in the January update; calendar-2025 equivalents were not stated.",
+  "observations": [
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Financial Express",
+      "period": "2026",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.financialexpress.com/policy/economy-global-growth-slows-to-3-but-india-remains-fastest-growing-major-economies-with-6-4-forecast-imf-4286663/",
+      "value": 7.0
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Financial Express",
+      "period": "2027",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.financialexpress.com/policy/economy-global-growth-slows-to-3-but-india-remains-fastest-growing-major-economies-with-6-4-forecast-imf-4286663/",
+      "value": 6.4
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "weo_press_compiled",
+  "source_note": "International Monetary Fund (IMF) World Economic Outlook — compiled from public release coverage",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  },
+  "vintages": [
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "The Indian Express",
+      "period": "2026",
+      "release_date": "2026-01-19",
+      "source_url": "https://indianexpress.com/article/business/imf-india-fy27-gdp-growth-6-4-7-3-this-year-10482726/",
+      "value": 6.3
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "The Indian Express",
+      "period": "2027",
+      "release_date": "2026-01-19",
+      "source_url": "https://indianexpress.com/article/business/imf-india-fy27-gdp-growth-6-4-7-3-this-year-10482726/",
+      "value": 6.5
+    }
+  ]
+}

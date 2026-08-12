@@ -1,0 +1,107 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_hong_kong_whole_economy",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "China Daily Hong Kong",
+      "period": "2025-10",
+      "release_date": "2025-11-05",
+      "source_url": "https://www.chinadailyhk.com/article/623026",
+      "value": 51.2
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "The Standard",
+      "period": "2025-11",
+      "release_date": "2025-12-03",
+      "source_url": "https://www.thestandard.com.hk/market/article/318367/Hong-Kongs-Nov-PMI-hits-529-marking-the-fourth-consecutive-month-of-expansion",
+      "value": 52.9
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "China Daily Hong Kong",
+      "period": "2025-12",
+      "release_date": "2026-01-07",
+      "source_url": "https://www.chinadailyhk.com/hk/article/626681",
+      "value": 51.9
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "The Standard",
+      "period": "2026-01",
+      "release_date": "2026-02-04",
+      "source_url": "https://www.thestandard.com.hk/finance/article/323602/Hong-Kong-PMI-expands-for-six-consecutive-months",
+      "value": 52.3
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "The Standard",
+      "period": "2026-02",
+      "release_date": "2026-03-04",
+      "source_url": "https://www.thestandard.com.hk/finance/article/325834/Hong-Kongs-PMI-rises-to-533-in-February",
+      "value": 53.3
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "The Standard",
+      "period": "2026-03",
+      "release_date": "2026-04-08",
+      "source_url": "https://www.thestandard.com.hk/finance/article/328763/Hong-Kong-PMI-declines-to-493-in-March-amid-tensions-in-the-Middle-East",
+      "value": 49.3
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "The Standard",
+      "period": "2026-04",
+      "release_date": "2026-05-06",
+      "source_url": "https://www.thestandard.com.hk/finance/article/331219/Hong-Kong-PMI-drops-to-486-in-April-marking-the-fastest-contraction-in-10-months",
+      "value": 48.6
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "The Standard",
+      "period": "2026-05",
+      "release_date": "2026-06-03",
+      "source_url": "https://www.thestandard.com.hk/finance/article/333684/Hong-Kong-PMI-rises-to-504-in-May",
+      "value": 50.4
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "China Daily Hong Kong",
+      "period": "2026-06",
+      "release_date": "2026-07-03",
+      "source_url": "https://www.chinadailyhk.com/hk/article/636002",
+      "value": 52.0
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "spglobal_pmi_press_releases",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

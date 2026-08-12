@@ -1,0 +1,117 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_japan_manufacturing",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-10",
+      "release_date": "2025-11-04",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-factory-activity-falls-at-fastest-pace-in-19-months-pmi-shows-4328988",
+      "value": 48.2
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-11",
+      "release_date": "2025-12-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-factory-activity-decline-slows-in-november-pmi-shows-4382650",
+      "value": 48.7
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2025-12",
+      "release_date": "2026-01-02",
+      "source_url": "https://uk.marketscreener.com/news/japan-s-factory-activity-steadies-as-demand-declines-slow-pmi-shows-ce7e59d9d088ff24",
+      "value": 50.0
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2026-01",
+      "release_date": "2026-02-02",
+      "source_url": "https://www.marketscreener.com/news/japan-s-factory-activity-growth-hits-near-3-1-2-year-peak-pmi-shows-ce7e5bddda8ff726",
+      "value": 51.5
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-02",
+      "release_date": "2026-03-02",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-factory-activity-hits-near-4year-high-in-february-pmi-shows-4533592",
+      "value": 53.0
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-03",
+      "release_date": "2026-05-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-factory-activity-growth-hits-4year-high-on-stockpiling-pmi-shows-4651834",
+      "value": 51.6
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-04",
+      "release_date": "2026-05-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-factory-activity-growth-hits-4year-high-on-stockpiling-pmi-shows-4651834",
+      "value": 55.1
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-05",
+      "release_date": "2026-06-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-factory-growth-slows-as-cost-pressures-surge-pmi-shows-4717968",
+      "value": 54.5
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-06",
+      "release_date": "2026-07-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/japan-manufacturing-extends-growth-caps-best-quarter-since-q1-2014-pmi-shows-4769321",
+      "value": 54.8
+    },
+    {
+      "date": "2026-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2026-07",
+      "release_date": "2026-07-24",
+      "source_url": "https://ca.marketscreener.com/news/japan-s-factory-activity-stays-firm-as-output-surges-in-july-pmi-shows-ce7f51dfd98cf123",
+      "value": 54.7
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "spglobal_pmi_press_releases",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

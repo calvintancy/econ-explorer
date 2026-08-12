@@ -1,0 +1,22 @@
+{
+  "frequency": "Q",
+  "indicator_id": "tw_real_gdp_yoy",
+  "input_mode": "raw_response",
+  "notes": "DGBAS advance estimate; subject to revision",
+  "observations": [
+    {
+      "date": "2026-04-01",
+      "period": "2026Q2",
+      "value": 12.92
+    }
+  ],
+  "public_status": "PUBLIC_EXACT_RELEASE",
+  "retrieved_at": "2026-08-12T09:41:14Z",
+  "source_id": "dgbas_taiwan_news",
+  "source_note": "Directorate-General of Budget, Accounting and Statistics (DGBAS), Taiwan",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  }
+}

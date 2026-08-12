@@ -1,0 +1,98 @@
+{
+  "economy": "Indonesia",
+  "frequency": "A",
+  "indicator_id": "weo_gdp_forecast_indonesia",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Bloomberg Technoz",
+      "period": "2025",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.bloombergtechnoz.com/detail-news/114640/imf-proyeksikan-ekonomi-ri-stabil-di-5-pada-2026",
+      "value": 5.1
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Bloomberg Technoz",
+      "period": "2026",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.bloombergtechnoz.com/detail-news/114640/imf-proyeksikan-ekonomi-ri-stabil-di-5-pada-2026",
+      "value": 5.0
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Bloomberg Technoz",
+      "period": "2027",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.bloombergtechnoz.com/detail-news/114640/imf-proyeksikan-ekonomi-ri-stabil-di-5-pada-2026",
+      "value": 5.1
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "weo_press_compiled",
+  "source_note": "International Monetary Fund (IMF) World Economic Outlook — compiled from public release coverage",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  },
+  "vintages": [
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "The Jakarta Post",
+      "period": "2025",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.thejakartapost.com/business/2026/01/22/imf-expects-indonesias-economy-to-grow-5-1-this-year",
+      "value": 5.0
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "The Jakarta Post",
+      "period": "2026",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.thejakartapost.com/business/2026/01/22/imf-expects-indonesias-economy-to-grow-5-1-this-year",
+      "value": 5.1
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "The Jakarta Post",
+      "period": "2027",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.thejakartapost.com/business/2026/01/22/imf-expects-indonesias-economy-to-grow-5-1-this-year",
+      "value": 5.1
+    }
+  ]
+}

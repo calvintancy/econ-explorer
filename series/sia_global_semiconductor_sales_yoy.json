@@ -1,0 +1,258 @@
+{
+  "frequency": "M",
+  "indicator_id": "sia_global_semiconductor_sales_yoy",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2024-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-01",
+      "release_date": "2024-03-04",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-15-2-year-to-year-in-january/",
+      "value": 15.2
+    },
+    {
+      "date": "2024-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-02",
+      "release_date": "2024-04-03",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-16-3-year-to-year-in-february/",
+      "value": 16.3
+    },
+    {
+      "date": "2024-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-04",
+      "release_date": "2024-06-06",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-15-8-year-to-year-in-april-new-industry-forecast-projects-market-growth-of-16-0-in-2024/",
+      "value": 15.8
+    },
+    {
+      "date": "2024-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-05",
+      "release_date": "2024-07-05",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-19-3-year-to-year-in-may/",
+      "value": 19.3
+    },
+    {
+      "date": "2024-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-07",
+      "release_date": "2024-09-03",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-18-7-year-to-year-in-july/",
+      "value": 18.7
+    },
+    {
+      "date": "2024-08-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-08",
+      "release_date": "2024-10-04",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-20-6-year-to-year-in-august/",
+      "value": 20.6
+    },
+    {
+      "date": "2024-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-10",
+      "release_date": "2024-12-05",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-22-1-year-to-year-in-october-annual-sales-projected-to-increase-19-0-in-2024/",
+      "value": 22.1
+    },
+    {
+      "date": "2024-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2024-11",
+      "release_date": "2025-01-07",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-20-7-year-to-year-in-november/",
+      "value": 20.7
+    },
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-01",
+      "release_date": "2025-03-06",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-17-9-year-to-year-in-january/",
+      "value": 17.9
+    },
+    {
+      "date": "2025-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-02",
+      "release_date": "2025-04-04",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-17-1-year-to-year-in-february/",
+      "value": 17.1
+    },
+    {
+      "date": "2025-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-04",
+      "release_date": "2025-06-05",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-2-5-month-to-month-in-april/",
+      "value": 22.7
+    },
+    {
+      "date": "2025-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-05",
+      "release_date": "2025-07-07",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-27-0-year-to-year-in-may/",
+      "value": 19.8
+    },
+    {
+      "date": "2025-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-06",
+      "release_date": "2025-08-04",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-7-8-from-q1-to-q2-month-to-month-sales-tick-up-1-5-in-june/",
+      "value": 19.6
+    },
+    {
+      "date": "2025-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-07",
+      "release_date": "2025-09-05",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-20-6-year-to-year-in-july/",
+      "value": 20.6
+    },
+    {
+      "date": "2025-08-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-08",
+      "release_date": "2025-10-03",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-21-7-year-to-year-in-august/",
+      "value": 21.7
+    },
+    {
+      "date": "2025-09-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-09",
+      "release_date": "2025-11-03",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-15-8-from-q2-to-q3-month-to-month-sales-grow-7-0-in-september/",
+      "value": 25.1
+    },
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-10",
+      "release_date": "2025-12-04",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-4-7-month-to-month-in-october/",
+      "value": 27.2
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2025-11",
+      "release_date": "2026-01-08",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-29-8-year-to-year-in-november/",
+      "value": 29.8
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2026-01",
+      "release_date": "2026-03-06",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-3-7-month-to-month-in-january/",
+      "value": 46.1
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2026-02",
+      "release_date": "2026-04-03",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-substantially-in-february/",
+      "value": 61.8
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2026-03",
+      "release_date": "2026-05-04",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026/",
+      "value": 79.2
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2026-04",
+      "release_date": "2026-06-05",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-11-month-to-month-in-april/",
+      "value": 93.9
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2026-05",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-9-2-month-to-month-in-may/",
+      "value": 104.1
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Semiconductor Industry Association (SIA)",
+      "period": "2026-06",
+      "release_date": "2026-08-06",
+      "source_url": "https://www.semiconductors.org/global-semiconductor-sales-increase-35-1-from-q1-2026-to-q2-2026/",
+      "value": 123.6
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "sia_semiconductor_sales_press_releases",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  },
+  "vintages": []
+}

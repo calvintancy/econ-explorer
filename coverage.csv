@@ -1,0 +1,190 @@
+id,family_title,indicator,scope,frequency,status
+F01-01,External economies — GDP,Real GDP growth,US,Q,PUBLIC_EXACT_API
+F01-02,External economies — GDP,Real GDP growth,Eurozone,Q,PUBLIC_EXACT_API
+F01-03,External economies — GDP,Real GDP growth,Japan,Q,PUBLIC_EXACT_API
+F01-04,External economies — GDP,Real GDP growth,China,Q,PUBLIC_EXACT_API
+F01-05,External economies — GDP,Real GDP growth,South Korea,Q,PUBLIC_EXACT_API
+F01-06,External economies — GDP,Real GDP growth,Taiwan,Q,PUBLIC_EXACT_API
+F01-07,External economies — GDP,Real GDP growth,Hong Kong,Q,PUBLIC_EXACT_API
+F01-08,External economies — GDP,Real GDP growth,Indonesia,Q,PUBLIC_EXACT_API
+F01-09,External economies — GDP,Real GDP growth,Malaysia,Q,PUBLIC_EXACT_API
+F01-10,External economies — GDP,Real GDP growth,Philippines,Q,PUBLIC_EXACT_API
+F01-11,External economies — GDP,Real GDP growth,Thailand,Q,PUBLIC_EXACT_API
+F01-12,External economies — GDP,Real GDP growth,Vietnam,Q,PUBLIC_EXACT_API
+F01-13,External economies — GDP,Real GDP growth (fiscal-year basis footnoted),India,Q,PUBLIC_EXACT_API
+F01-14,External economies — GDP,"GDP expenditure decomposition (private consumption, GFCF, inventories, govt, exports, imports; ppt contributions)",all F01 economies where public,Q,PUBLIC_EXACT_API
+F01-15,External economies — GDP,"Full-year GDP actuals and forecasts, provider-labelled and vintage-preserved",all F01 economies,A,PUBLIC_COMPILED_RELEASES
+F01-16,External economies — GDP,GDP forecast-revision table (upgraded/downgraded economies with stated reasons),all F01 economies,per vintage,PUBLIC_COMPILED_RELEASES
+F01-17,External economies — GDP,Advance/preliminary vs revised GDP estimate tracking,"US, SG, others w/ advance cycle",Q,PUBLIC_EXACT_API
+F01-18,External economies — GDP,"US federal government shutdown, Oct–Nov 2025 (data-release disruptions; CBO cost scenarios)",US,event,PUBLIC_EXACT_RELEASE
+F02-01,External economies — trade & exports,Merchandise exports (rolling 10-month table + full history),"US, CN, KR, TW, HK + all other F01 economies + SG",M,PUBLIC_EXACT_API
+F02-02,External economies — trade & exports,Merchandise imports,same,M,PUBLIC_EXACT_API
+F02-03,External economies — trade & exports,Trade balance,same,M,PUBLIC_EXACT_API
+F02-04,External economies — trade & exports,Exports by destination (incl. China US vs non-US split; EZ/JP exposure views),major exporters,M,PUBLIC_EXACT_API
+F02-05,External economies — trade & exports,"Merchandise exports to US as % of GDP (exposure metric, by economy)",Asian economies + EZ,A/Q,PUBLIC_EXACT_API
+F02-06,External economies — trade & exports,Intra-East Asia trade (trade diversion / supply-chain adjustment view),region,Q,PUBLIC_RECONSTRUCTED
+F02-07,External economies — trade & exports,AI-related goods exports by origin economy (documented HS-code basket),project economy list,Q,PUBLIC_RECONSTRUCTED
+F02-08,External economies — trade & exports,"Global merchandise trade growth (full-year actual + projection, e.g. 6.3% in 2025)",world,A/Q,PUBLIC_EXACT_DOWNLOAD
+F02-09,External economies — trade & exports,Semiconductor and AI-chip exports,"TW, KR (+SG cross-ref F11)",M,PUBLIC_EXACT_RELEASE
+F02-10,External economies — trade & exports,US merchandise imports: monthly yoy + quarterly 1Q24–4Q25 (1Q25 front-loading surge),US,M/Q,PUBLIC_EXACT_API
+F02-11,External economies — trade & exports,US trade balance (merchandise deficit trends),US,M,PUBLIC_EXACT_API
+F02-12,External economies — trade & exports,"Average merchandise trade balance with US, 2018–2023, by economy (ranking)",partners,static,PUBLIC_EXACT_API
+F03-01,Purchasing Managers' Indices,Manufacturing PMI (official NBS),China,M,PUBLIC_EXACT_RELEASE
+F03-02,Purchasing Managers' Indices,Manufacturing PMI (ISM),US,M,PUBLIC_EXACT_DOWNLOAD
+F03-03,Purchasing Managers' Indices,Manufacturing PMI table set (mixed public routes by economy),7 economies,M,PUBLIC_COMPILED_RELEASES
+F03-04,Purchasing Managers' Indices,Singapore manufacturing PMI (publisher restricts current bulletins),SG,M,PROPRIETARY
+F03-05,Purchasing Managers' Indices,PMI sub-indices where public (new export orders etc.),as available,M,PUBLIC_PARTIAL
+F03-06,Purchasing Managers' Indices,Global/composite PMI where recoverable,world,M,PUBLIC_VISIBLE_RESTRICTED
+F03-07,Purchasing Managers' Indices,Services PMI table set,"US, Eurozone, Japan",M,PUBLIC_COMPILED_RELEASES
+F03-08,Purchasing Managers' Indices,US Composite PMI,US,M,PUBLIC_VISIBLE_RESTRICTED
+F03-09,Purchasing Managers' Indices,"Singapore Manufacturing PMI sub-indices (new orders, output, employment, …; expansion/contraction readings)",SG,M,PROPRIETARY
+F03-10,Purchasing Managers' Indices,Singapore Electronics PMI (paired with electronics IIP),SG,M,PROPRIETARY
+F04-01,Inflation & monetary policy,Headline CPI,"US, EZ (HICP), JP, CN, KR, TW, HK, ASEAN, IN, SG",M,PUBLIC_EXACT_API
+F04-02,Inflation & monetary policy,Core CPI (national definitions labelled; incl. MAS Core Inflation),same,M,PUBLIC_EXACT_API
+F04-03,Inflation & monetary policy,US PCE & core PCE (incl. housing-rent pass-through view),US,M,PUBLIC_EXACT_API
+F04-04,Inflation & monetary policy,Producer prices (US PPI overall; EZ; CN; others),major economies,M,PUBLIC_EXACT_API
+F04-05,Inflation & monetary policy,"Inflation decomposition (EZ HICP: food, energy, NEIG, services; US; SG)","US, EZ, SG min.",M,PUBLIC_EXACT_API
+F04-06,Inflation & monetary policy,"Policy rates (Fed, ECB incl. Jun-2025 cut to 2.0%, BoJ, PBOC/LPR, MAS stance, regional CBs)",majors + region,per meeting,PUBLIC_EXACT_API
+F04-07,Inflation & monetary policy,"Fed policy-rate projections (dot plot vintages, e.g. Sep-2024 vs Dec-2024) + market-implied path",US,per SEP,PUBLIC_EXACT_DOWNLOAD
+F04-08,Inflation & monetary policy,Consumer inflation expectations: UMich 1-yr & 5–10yr medians; EZ expectations,"US, EZ",M/Q,PUBLIC_EXACT_API
+F04-09,Inflation & monetary policy,Central-bank decisions timeline (events),majors,event,PUBLIC_EXACT_API
+F04-10,Inflation & monetary policy,"US CPI by category (new vehicles, household furnishings, apparel, core)",US,M,PUBLIC_EXACT_API
+F04-11,Inflation & monetary policy,"US PPI sectoral detail (copper, iron & steel, motor vehicles)",US,M,PUBLIC_EXACT_API
+F05-01,US tariffs & trade policy,US tariff rates by economy across successive legal regimes,US vs partners,event/level,PUBLIC_EXACT_RELEASE
+F05-02,US tariffs & trade policy,"US sectoral tariffs (Section 232: semiconductors, pharmaceuticals, steel/aluminium, autos)",US,event/level,PUBLIC_EXACT_RELEASE
+F05-03,US tariffs & trade policy,"US effective tariff rate, monthly (% of goods imports; Jan-25 2.4% → Aug-25 18.6% path; methodology documented)",US,M,PUBLIC_RECONSTRUCTED
+F05-04,US tariffs & trade policy,"US tariff timeline (Liberation Day, pause, truce, resumption, court ruling; primary-source dated)",US/global,event,PUBLIC_EXACT_RELEASE
+F05-05,US tariffs & trade policy,Partner-level tariff exposure (exports to US in tariffed categories),Asian economies + EZ + SG,Q,PUBLIC_RECONSTRUCTED
+F05-06,US tariffs & trade policy,Tariff pass-through evidence (import/consumer price wedges; links F04-10/11),US,M,PUBLIC_EXACT_RELEASE
+F05-07,US tariffs & trade policy,"Statutory vs effective US tariff rate (Becker Friedman Institute methodology, cited + reproduced where licence permits)",US,M/Q,PUBLIC_VISIBLE_RESTRICTED
+F05-08,US tariffs & trade policy,Summary table: US tariffs for key economies,US vs partners,per update,PUBLIC_EXACT_RELEASE
+F05-09,US tariffs & trade policy,US–China trade arrangement of November 2025 (primary texts),US-CN,event,PUBLIC_EXACT_RELEASE
+F05-10,US tariffs & trade policy,US Economic & Trade Policy Uncertainty indices (std devs from 2017–24 average),US,M,PUBLIC_EXACT_DOWNLOAD
+F05-11,US tariffs & trade policy,US Consumer Sentiment Index (University of Michigan),US,M,PUBLIC_EXACT_DOWNLOAD
+F05-12,US tariffs & trade policy,US personal consumption: real PCE + retail sales,US,M,PUBLIC_EXACT_RELEASE
+F05-13,US tariffs & trade policy,"US labour market: non-farm payrolls (3mma), unemployment rate, vacancies-to-unemployed ratio, nominal wage growth",US,M,PUBLIC_EXACT_RELEASE
+F06-01,Global financial conditions,Broad financial-conditions index (public substitute presented under its own name),global,M/W,PUBLIC_VISIBLE_RESTRICTED
+F06-02,Global financial conditions,OFR Financial Stress Index,global/US,D,PUBLIC_EXACT_DOWNLOAD
+F06-03,Global financial conditions,Equity volatility index (redistribution restricted; cited with link-out),US,D,PUBLIC_VISIBLE_RESTRICTED
+F06-04,Global financial conditions,"UST yields (2y, 10y, curve)",US,D,PUBLIC_EXACT_DOWNLOAD
+F06-05,Global financial conditions,Credit spreads (IG/HY OAS),US,D,NEEDS_REVIEW
+F06-06,Global financial conditions,USD index / major FX / USDSGD,global/SG,D,PUBLIC_EXACT_DOWNLOAD
+F06-07,Global financial conditions,"Equity indices (S&P 500, STI, regional)",global,D,NEEDS_REVIEW
+F06-08,Global financial conditions,,global,event,PUBLIC_EXACT_RELEASE
+F06-09,Global financial conditions,"General government expenditure (% of GDP), G20 advanced economies, 2022–2027f",G20 AEs,A,PUBLIC_EXACT_API
+F07-01,AI & technology,Global semiconductor sales,world/regions,M,PUBLIC_COMPILED_RELEASES
+F07-02,AI & technology,Gartner semiconductor revenue,world,A,PUBLIC_VISIBLE_RESTRICTED
+F07-03,AI & technology,SEMI equipment billings / fab equipment spending,world/regions,M/Q/A,PUBLIC_COMPILED_RELEASES
+F07-04,AI & technology,SEMI World Fab Forecast headline,world,A/vintage,PUBLIC_COMPILED_RELEASES
+F07-05,AI & technology,Hyperscaler capex,US firms,Q/A,PUBLIC_EXACT_DOWNLOAD
+F07-06,AI & technology,Global AI-related exports by origin country (canonical row F02-07),19 economies,Q,PUBLIC_RECONSTRUCTED
+F07-07,AI & technology,Electronics IIP (SG) paired with electronics PMI,SG,M,NEEDS_REVIEW
+F07-08,AI & technology,Precision engineering cluster output (SG),SG,M,NEEDS_REVIEW
+F07-09,AI & technology,AI investment boom as regional growth-support factor (narrative/risk element + defensible quantitative proxies),global/region,Q/A,PUBLIC_PARTIAL
+F07-10,AI & technology,"Semiconductor equipment exports (JP, NL)","JP, NL",M,PUBLIC_EXACT_API
+F08-01,Energy & commodity markets,Brent crude spot price and official forecast-vintage comparison,global,D/M,NEEDS_REVIEW
+F08-02,Energy & commodity markets,WTI crude spot,global,D/M,NEEDS_REVIEW
+F08-03,Energy & commodity markets,Natural gas,US,D/M,NEEDS_REVIEW
+F08-04,Energy & commodity markets,Natural gas/LNG,Asia,D/W/M,PUBLIC_PARTIAL
+F08-05,Energy & commodity markets,Container freight rates (public indices restricted; cited with link-out),global routes,W,PUBLIC_VISIBLE_RESTRICTED
+F08-06,Energy & commodity markets,Global/port vessel traffic & throughput,global/SG,W/M,PUBLIC_EXACT_DOWNLOAD
+F08-07,Energy & commodity markets,Vessels transiting the Strait of Hormuz (7-day moving average),SoH,D/W,PUBLIC_EXACT_DOWNLOAD
+F08-08,Energy & commodity markets,Global fertiliser prices (urea exact; no public global ammonia price series),global,M,PUBLIC_PARTIAL
+F08-09,Energy & commodity markets,"Global food commodity prices (vegetable oils, grains, …; FAO FPI + components)",global,M,NEEDS_REVIEW
+F08-10,Energy & commodity markets,Singapore sectoral reliance on petroleum imports (documented input-output method),SG,static/A,PUBLIC_RECONSTRUCTED
+F08-11,Energy & commodity markets,Singapore electricity generation and fuel mix,SG,M/Q/A,PUBLIC_EXACT_DOWNLOAD
+F08-12,Energy & commodity markets,Broader commodity indices,global,M,NEEDS_REVIEW
+F08-13,Energy & commodity markets,Commodity shares of trade transiting the Strait of Hormuz (published estimates vary; range shown),SoH,static,PUBLIC_RECONSTRUCTED
+F08-14,Energy & commodity markets,Persian Gulf share of global energy and fertiliser supply (published estimates vary; range shown),Gulf,static,PUBLIC_RECONSTRUCTED
+F08-15,Energy & commodity markets,Channels of ME-conflict impact on food prices (4 channels: biofuel demand; farm diesel; processing electricity; fertiliser→yields),global,n/a,REQUIREMENT
+F08-16,Energy & commodity markets,Natural gas,Europe,M (D restricted),NEEDS_REVIEW
+F09-01,Singapore food prices,CPI: food; food excl. food services; food services,SG,M,PUBLIC_EXACT_API
+F09-02,Singapore food prices,Frequently-purchased-items price index (no public source identified),SG,M,UNAVAILABLE
+F09-03,Singapore food prices,"Weekly supermarket price index, key food items tier 1 (no public source identified)",SG,W,UNAVAILABLE
+F09-04,Singapore food prices,Imported food price index (food and live animals),SG,M/Q,PUBLIC_EXACT_API
+F09-05,Singapore food prices,"Food-services price index (hawker centres, food courts, coffee shops)",SG,M,PUBLIC_EXACT_API
+F09-06,Singapore food prices,Global→SG food-price transmission set (Buckets 1→2→3 aligned),SG,M,PUBLIC_RECONSTRUCTED
+F09-07,Singapore food prices,"Weekly supermarket price index, key food items tier 2 (no public source identified)",SG,W,UNAVAILABLE
+F10-01,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-02,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-03,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-04,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-05,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-06,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F10-07,"ME Conflict@PULSE / shock monitor (inv§10, brief§37) — **DESCOPED (D-022)**",,,,DESCOPED
+F11-01,Singapore GDP & growth,"Real GDP growth: quarterly + full-year; advance estimates vs final, explicitly flagged",,Q,PUBLIC_EXACT_API
+F11-02,Singapore GDP & growth,"GDP by sector: manufacturing, construction, services detail (finance & insurance, wholesale & retail, transport & storage, accommodation & food, infocomm, …)",,Q,PUBLIC_EXACT_API
+F11-03,Singapore GDP & growth,Official Singapore GDP forecast range (release vintages),,per release,PUBLIC_EXACT_RELEASE
+F11-04,Singapore GDP & growth,"NODX: total, electronics/non-electronics, by market",,M,PUBLIC_EXACT_API
+F11-05,Singapore GDP & growth,"Total merchandise trade (X, M, balance)",,M,PUBLIC_EXACT_API
+F11-06,Singapore GDP & growth,Quarterly GDP nowcast (no public source; any future analogue would be separately labelled),,Q,UNAVAILABLE
+F11-07,Singapore GDP & growth,Qualitative company-visit summaries (no public source),,Q,UNAVAILABLE
+F12-01,Singapore labour market,"Employment change: total, residents, non-residents",,Q (+M where published),PUBLIC_EXACT_API
+F12-02,Singapore labour market,"Unemployment rates: overall, resident, citizen (sa); annual trend reviews",,Q/M,PUBLIC_EXACT_API
+F12-03,Singapore labour market,Retrenchments,,Q,PUBLIC_EXACT_API
+F12-04,Singapore labour market,Job vacancies: levels + by broad occupational group; vacancies-to-unemployed ratio,,Q,PUBLIC_EXACT_API
+F12-05,Singapore labour market,Wage growth (quarterly trend reviews),,Q/A,PUBLIC_EXACT_API
+F12-06,Singapore labour market,Average monthly earnings: nominal AND real,,Q,PUBLIC_EXACT_API
+F12-07,Singapore labour market,"Labour detail dimensions (age, residency, occupation, industry) where published",,Q/A,PUBLIC_EXACT_API
+F13-01,Singapore sectoral performance,"IIP by cluster: electronics, precision engineering, chemicals (incl. feedstock-shock views, e.g. −17.6% yoy Apr 2026), biomedical, transport engineering, general manufacturing",,M,PUBLIC_EXACT_API
+F13-02,Singapore sectoral performance,Manufacturing sector performance & outlook panels,,M/Q,PUBLIC_EXACT_API
+F13-03,Singapore sectoral performance,"Retail sales index (total, ex-motor; annual reviews)",,M,PUBLIC_EXACT_API
+F13-04,Singapore sectoral performance,F&B services index (annual reviews),,M,PUBLIC_EXACT_API
+F13-05,Singapore sectoral performance,"Construction sector: output, contracts awarded, progress payments, outlook",,M/Q,PUBLIC_EXACT_API
+F13-06,Singapore sectoral performance,"Tourism: international visitor arrivals (monthly), receipts, hotel indicators",,M/Q,PUBLIC_EXACT_API
+F13-07,Singapore sectoral performance,"Air transport: passengers, aircraft movements, air cargo; aerospace segment (part of transport engineering) performance",,M,PUBLIC_EXACT_API
+F13-08,Singapore sectoral performance,"Water transport: container throughput, sea cargo, vessel arrivals, bunker sales; paired with sea freight rates (F08-05)",,M,PUBLIC_EXACT_API
+F13-09,Singapore sectoral performance,Finance & insurance: performance; loans to businesses incl. domestically- vs outward-oriented split (mapping documented),,M/Q,PUBLIC_EXACT_API
+F13-10,Singapore sectoral performance,Property: private residential prices & transactions; commercial prices & vacancy,,Q,PUBLIC_EXACT_API
+F13-11,Singapore sectoral performance,Services turnover / business receipts indices,,Q,PUBLIC_EXACT_API
+F13-12,Singapore sectoral performance,Accommodation sector performance (1Q25-style reviews),,Q,PUBLIC_EXACT_API
+F14-01,Singapore business sentiment & confidence,Business Expectations Survey,,Q,PUBLIC_EXACT_API
+F14-02,Singapore business sentiment & confidence,Business Expectations Survey,,Q,PUBLIC_EXACT_API
+F14-03,Singapore business sentiment & confidence,Business confidence index (publisher unidentified; candidates under review),,M,NEEDS_REVIEW
+F14-04,Singapore business sentiment & confidence,Consumer confidence index (publisher unidentified; candidates under review),,M/Q,NEEDS_REVIEW
+F14-05,Singapore business sentiment & confidence,News-based economic sentiment index (no public source identified),,M,UNAVAILABLE
+F14-06,Singapore business sentiment & confidence,Corporate health index (publisher unidentified; public candidates under review),,M/Q,NEEDS_REVIEW
+F14-08,Singapore business sentiment & confidence,Corporate distress index (publisher unidentified; public candidates under review),,M/Q,NEEDS_REVIEW
+F15-01,China-specific indicators,Industrial production,,M,PUBLIC_EXACT_API
+F15-02,China-specific indicators,Fixed asset investment,,M ytd,PUBLIC_EXACT_API
+F15-03,China-specific indicators,Retail sales (incl. consumer trade-in scheme impact views),,M,PUBLIC_EXACT_API
+F15-04,China-specific indicators,Merchandise exports by destination: US vs non-US partners,,M,PUBLIC_EXACT_API
+F15-05,China-specific indicators,"Property market: new home sales (yoy), average home prices (70-city), investment",,M,PUBLIC_EXACT_API
+F15-06,China-specific indicators,"Credit: TSF, RMB loans, M2",,M,PUBLIC_EXACT_API
+F15-07,China-specific indicators,Surveyed & youth unemployment,,M,PUBLIC_EXACT_API
+F15-08,China-specific indicators,"CPI, core CPI, PPI (deflation trends)",,M,PUBLIC_EXACT_API
+F15-09,China-specific indicators,China PMIs (official plus private-sector general PMI),,M,PUBLIC_COMPILED_RELEASES
+F15-10,China-specific indicators,LPR / policy instruments,,M,PUBLIC_EXACT_API
+F15-11,China-specific indicators,Industrial/corporate profits,,M ytd,PUBLIC_EXACT_API
+F16-01,Eurozone-specific indicators,"HICP: headline, core, services (+ decomposition F04-05)",,M,PUBLIC_EXACT_API
+F16-02,Eurozone-specific indicators,Unemployment rate,,M,PUBLIC_EXACT_API
+F16-03,Eurozone-specific indicators,Industrial production,,M,PUBLIC_EXACT_API
+F16-04,Eurozone-specific indicators,Retail sales (monthly trends),,M,PUBLIC_EXACT_API
+F16-05,Eurozone-specific indicators,ECB policy rate path & decisions,,per meeting,PUBLIC_EXACT_API
+F16-06,Eurozone-specific indicators,Eurozone consumer sentiment and economic sentiment indicators,,M,PUBLIC_EXACT_DOWNLOAD
+F16-07,Eurozone-specific indicators,Merchandise exports incl. US-tariff exposure views,,M,PUBLIC_EXACT_API
+F16-08,Eurozone-specific indicators,Negotiated wages / labour costs,,Q,PUBLIC_EXACT_API
+F16-09,Eurozone-specific indicators,"GDP by country: Germany, France, Spain, Italy, Ireland",,Q,PUBLIC_EXACT_API
+F16-10,Eurozone-specific indicators,Eurozone inflation expectations,,M/Q,PUBLIC_EXACT_API
+F17-01,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**",Story template: 3–6 live charts + concise analytical narrative + source notes + methodology + publication/update dates,,,DESCOPED
+F17-02,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**","Story data-binding: charts are live app components on snapshot data, not screenshots",,,DESCOPED
+F17-03,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**",Story index page + maintainable authoring format (Markdown/MDX),,,DESCOPED
+F17-04,"Feature stories / Insights (inv§17, brief§38) — **DESCOPED (D-022)**",Launch-content candidates reproducing the original story list where data permit: Trump 2.0 tariff impact (Mar 25); Exposure to US reciprocal tariffs (Apr 25); State of the US economy (Jun 25); Sea freight rates (Jul 25); US tariff pass-through & labour market (Sep 25); Thai economy & political volatility (Sep 25); China exports & US imports (Oct 25); US K-shaped economy (Jan 26); Global merchandise trade 2025 (Jan 26); US-Israel-Iran conflict impact (Mar–Jul 26); Indonesia outlook (Jun–Jul 26),,,DESCOPED
+F18-01,High-frequency dashboard panels & product structure,"Overview modules: global growth, trade, inflation, manufacturing, financial conditions, energy, SG growth/inflation/labour/mfg, current risks",,,REQUIREMENT
+F18-02,High-frequency dashboard panels & product structure,"Singapore summary table: GDP, NODX, IIP, retail sales, F&B, sea cargo, loans, visitor arrivals, unemployment, employment growth, MAS Core Inflation, FPI",,,REQUIREMENT
+F18-03,High-frequency dashboard panels & product structure,"Risk module: bullet list, 3–4 mechanistic downside risks (cause → channel → impact) + occasional upside (e.g. AI investment boom); opening-line conventions per inventory",,,REQUIREMENT
+F18-04,High-frequency dashboard panels & product structure,Panel grammar: analytical title; 1–2 charts with source citations; 3–6 sentence narrative (current reading → trend → mechanism → outlook),,,REQUIREMENT
+F18-05,High-frequency dashboard panels & product structure,,,,REQUIREMENT
+F18-06,High-frequency dashboard panels & product structure,Three-part IA echo: External Economies / Singapore Economy / High-frequency Dashboards (+ Feature Story / Special Section slots),,,REQUIREMENT
+X-01,requirements,Source status taxonomy applied to every indicator,,,REQUIREMENT
+X-02,requirements,Observation-level provenance schema,,,REQUIREMENT
+X-03,requirements,Forecast/actual/vintage separation everywhere (f‡ replaced by true provider labels),,,REQUIREMENT
+X-04,requirements,Central tested transformation engine (incl. compounded qoq saar),,,REQUIREMENT
+X-05,requirements,"Event dataset (tariff timeline, CB decisions, conflict events, financial-stress events) + opt-in chart annotations",,,REQUIREMENT
+X-06,requirements,Validation gates deployment; last-known-good protected,,,REQUIREMENT
+X-07,requirements,"Explorer with URL state, search, downloads, metadata drawers",,,REQUIREMENT
+X-08,requirements,Public methodology + coverage pages,,,REQUIREMENT
+X-09,requirements,"Glossary enforced: yoy, qoq saa/saar, bps, NODX, IIP, FPI, SNES, BCI, CVR, SoH, KFIs, NIEs = KR+TW+HK+SG; ""Eurozone"", ""South Korea"", ""US""; spell out on first reference",,,REQUIREMENT
+X-10,requirements,,,,REQUIREMENT
+X-11,requirements,"GitHub Pages static deployment, CI, scheduled refresh",,,REQUIREMENT
+X-12,requirements,"Coverage score reporting, honest",,,REQUIREMENT

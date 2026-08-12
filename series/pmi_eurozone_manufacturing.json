@@ -1,0 +1,117 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_eurozone_manufacturing",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-10",
+      "release_date": "2025-11-03",
+      "source_url": "https://www.investing.com/news/economic-indicators/euro-zone-manufacturing-stagnates-in-october-amid-weak-demand-pmi-shows-4326227",
+      "value": 50.0
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2025-11",
+      "release_date": "2025-12-01",
+      "source_url": "https://www.marketscreener.com/news/euro-zone-factory-activity-contracts-in-november-job-cuts-accelerate-pmi-shows-ce7d51d8d98df226",
+      "value": 49.6
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-12",
+      "release_date": "2026-01-02",
+      "source_url": "https://www.investing.com/news/economy-news/euro-zone-manufacturing-slips-deeper-into-contraction-at-yearend-pmi-shows-4427418",
+      "value": 48.8
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-01",
+      "release_date": "2026-02-02",
+      "source_url": "https://www.investing.com/news/economy-news/euro-zone-factory-activity-contracts-in-january-but-output-rebounds-pmi-shows-4477955",
+      "value": 49.5
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Republic of Türkiye Ministry of Trade",
+      "period": "2026-02",
+      "release_date": "2026-03-02",
+      "source_url": "https://trade.gov.tr/news/eurozone-manufacturing-pmi-increased-to-50-8-in-february-2026",
+      "value": 50.8
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by LSE.co.uk)",
+      "period": "2026-03",
+      "release_date": "2026-04-01",
+      "source_url": "https://www.lse.co.uk/news/euro-zone-factory-growth-hits-45-month-high-amid-supply-disruptions-pmi-shows-cwfx9m6vur4vo4r.html",
+      "value": 51.6
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-04",
+      "release_date": "2026-05-04",
+      "source_url": "https://www.investing.com/news/economy-news/euro-area-factories-snapped-up-raw-materials-in-april-as-optimism-slumped-amid-middle-east-war--pmi-4655083",
+      "value": 52.2
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2026-05",
+      "release_date": "2026-06-01",
+      "source_url": "https://www.marketscreener.com/news/euro-zone-factory-growth-slowed-in-may-as-input-costs-hit-four-year-high-pmi-shows-ce7f5dd8d189f126",
+      "value": 51.6
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Sharecast (published by LSE.co.uk)",
+      "period": "2026-06",
+      "release_date": "2026-07-01",
+      "source_url": "https://www.lse.co.uk/news/eurozone-business-activity-stabilises-as-cost-pressures-ease-5ba2jxcwqsbzr8g.html",
+      "value": 51.4
+    },
+    {
+      "date": "2026-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Cinco Días / El País",
+      "period": "2026-07",
+      "release_date": "2026-08-03",
+      "source_url": "https://cincodias.elpais.com/economia/2026-08-03/la-actividad-industrial-de-la-zona-euro-logra-repunta-en-julio-pese-a-las-dudas-a-corto-plazo-por-el-entorno-internacional.html",
+      "value": 51.9
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "spglobal_pmi_press_releases",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_japan_services",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-10",
+      "release_date": "2025-11-06",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-services-sector-extends-growth-in-october-despite-demand-slowdown-pmi-shows-4336050",
+      "value": 53.1
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-11",
+      "release_date": "2025-12-03",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-services-sector-sustains-solid-growth-in-november-pmi-shows-4387269",
+      "value": 53.2
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-12",
+      "release_date": "2026-01-06",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-service-sector-growth-slows-in-december-pmi-shows-4433821",
+      "value": 51.6
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-01",
+      "release_date": "2026-02-04",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-services-activity-hits-fastest-growth-in-nearly-a-year-pmi-shows-4483498",
+      "value": 53.7
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-02",
+      "release_date": "2026-04-06",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-services-growth-slows-as-middle-east-war-dents-confidence-pmi-shows-4596737",
+      "value": 53.8
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-03",
+      "release_date": "2026-04-06",
+      "source_url": "https://www.investing.com/news/economic-indicators/japans-services-growth-slows-as-middle-east-war-dents-confidence-pmi-shows-4596737",
+      "value": 53.4
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-04",
+      "release_date": "2026-05-07",
+      "source_url": "https://m.investing.com/news/economic-indicators/japan-service-sector-growth-slows-to-11month-low-in-april-pmi-shows-4670650?ampMode=1",
+      "value": 51.0
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2026-05",
+      "release_date": "2026-07-03",
+      "source_url": "https://www.marketscreener.com/news/japan-s-services-activity-returns-to-growth-in-june-pmi-shows-ce7f5fd3de8bf424",
+      "value": 50.0
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2026-06",
+      "release_date": "2026-07-03",
+      "source_url": "https://www.marketscreener.com/news/japan-s-services-activity-returns-to-growth-in-june-pmi-shows-ce7f5fd3de8bf424",
+      "value": 52.2
+    },
+    {
+      "date": "2026-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by MarketScreener)",
+      "period": "2026-07",
+      "release_date": "2026-07-24",
+      "source_url": "https://ca.marketscreener.com/news/japan-s-factory-activity-stays-firm-as-output-surges-in-july-pmi-shows-ce7f51dfd98cf123",
+      "value": 51.9
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "spglobal_pmi_press_releases",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_south_korea_manufacturing",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-10",
+      "release_date": "2025-12-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-koreas-factory-activity-shrinks-again-on-weak-demand-pmi-shows-4382646",
+      "value": 49.4
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-11",
+      "release_date": "2025-12-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-koreas-factory-activity-shrinks-again-on-weak-demand-pmi-shows-4382646",
+      "value": 49.4
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2025-12",
+      "release_date": "2026-01-02",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-expands-on-stronger-exports-pmi-shows-4427271",
+      "value": 50.1
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-01",
+      "release_date": "2026-02-02",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-koreas-factory-activity-expands-at-strongest-pace-in-nearly-112-years-pmi-shows-4477744",
+      "value": 51.2
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-02",
+      "release_date": "2026-03-03",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-expands-for-third-month-on-output-jump-pmi-shows-4536585",
+      "value": 51.1
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-03",
+      "release_date": "2026-05-04",
+      "source_url": "https://www.investing.com/news/economy-news/south-korea-factory-activity-expands-at-strongest-pace-in-over-4-years-pmi-shows-4654927",
+      "value": 52.6
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-04",
+      "release_date": "2026-05-04",
+      "source_url": "https://www.investing.com/news/economy-news/south-korea-factory-activity-expands-at-strongest-pace-in-over-4-years-pmi-shows-4654927",
+      "value": 53.6
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-05",
+      "release_date": "2026-06-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-growth-hits-over-5year-high-pmi-shows-4717969",
+      "value": 54.8
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Reuters (syndicated by Investing.com)",
+      "period": "2026-06",
+      "release_date": "2026-07-01",
+      "source_url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-grows-at-slower-pace-as-export-demand-weakens-pmi-shows-4769315",
+      "value": 52.1
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "spglobal_pmi_press_releases",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

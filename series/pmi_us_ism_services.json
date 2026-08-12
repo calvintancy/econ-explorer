@@ -1,0 +1,117 @@
+{
+  "frequency": "M",
+  "indicator_id": "pmi_us_ism_services",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-10-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2025-10",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 52.0
+    },
+    {
+      "date": "2025-11-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2025-11",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 52.4
+    },
+    {
+      "date": "2025-12-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2025-12",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 53.8
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-01",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 53.8
+    },
+    {
+      "date": "2026-02-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-02",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 56.1
+    },
+    {
+      "date": "2026-03-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-03",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 54.0
+    },
+    {
+      "date": "2026-04-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-04",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 53.6
+    },
+    {
+      "date": "2026-05-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-05",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 54.5
+    },
+    {
+      "date": "2026-06-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-06",
+      "release_date": "2026-07-06",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/services/june/",
+      "value": 54.0
+    },
+    {
+      "date": "2026-07-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "outlet": "Institute for Supply Management (ISM)",
+      "period": "2026-07",
+      "release_date": "2026-08-05",
+      "source_url": "https://www.ismworld.org/globalassets/pub/research-and-surveys/rob/nmi/bitcrob202607svcs.pdf",
+      "value": 54.1
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "ism_pmi_reports",
+  "source_note": "compiled from public releases",
+  "units": {
+    "seasonal_adjustment": "SA",
+    "transformation": "level",
+    "unit": "index"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "economy": "Euro area",
+  "frequency": "A",
+  "indicator_id": "weo_gdp_forecast_euro_area",
+  "input_mode": "compiled_release",
+  "notes": "",
+  "observations": [
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via MarketScreener",
+      "period": "2025",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.marketscreener.com/news/imf-edges-2026-global-growth-forecast-lower-to-3-sees-rebound-in-2027-ce7f5ed9d88ff621",
+      "value": 1.4
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via MarketScreener",
+      "period": "2026",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.marketscreener.com/news/imf-edges-2026-global-growth-forecast-lower-to-3-sees-rebound-in-2027-ce7f5ed9d88ff621",
+      "value": 0.9
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-07 Update",
+      "is_forecast": true,
+      "outlet": "Reuters via MarketScreener",
+      "period": "2027",
+      "release_date": "2026-07-09",
+      "source_url": "https://www.marketscreener.com/news/imf-edges-2026-global-growth-forecast-lower-to-3-sees-rebound-in-2027-ce7f5ed9d88ff621",
+      "value": 1.2
+    }
+  ],
+  "public_status": "PUBLIC_COMPILED_RELEASES",
+  "retrieved_at": "2026-08-12T00:00:00Z",
+  "source_id": "weo_press_compiled",
+  "source_note": "International Monetary Fund (IMF) World Economic Outlook — compiled from public release coverage",
+  "units": {
+    "seasonal_adjustment": "NSA",
+    "transformation": "yoy",
+    "unit": "%"
+  },
+  "vintages": [
+    {
+      "date": "2025-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "AFP via IndoPremier",
+      "period": "2025",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.indopremier.com/ipotnews/newsDetail.php?group_news=ALLNEWS&halaman=1&jdl=Table_of_IMF_economic_growth_forecasts&name=&news_date=&news_id=1717745&q=GERMANY%2C+&search=y_general&taging_subtype=GERMANY",
+      "value": 1.4
+    },
+    {
+      "date": "2026-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "AFP via IndoPremier",
+      "period": "2026",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.indopremier.com/ipotnews/newsDetail.php?group_news=ALLNEWS&halaman=1&jdl=Table_of_IMF_economic_growth_forecasts&name=&news_date=&news_id=1717745&q=GERMANY%2C+&search=y_general&taging_subtype=GERMANY",
+      "value": 1.3
+    },
+    {
+      "date": "2027-01-01",
+      "extraction_confidence": "MEDIUM",
+      "extraction_method": "compiled_release",
+      "forecast_provider": "IMF WEO",
+      "forecast_vintage": "2026-01 Update",
+      "is_forecast": true,
+      "outlet": "AFP via IndoPremier",
+      "period": "2027",
+      "release_date": "2026-01-19",
+      "source_url": "https://www.indopremier.com/ipotnews/newsDetail.php?group_news=ALLNEWS&halaman=1&jdl=Table_of_IMF_economic_growth_forecasts&name=&news_date=&news_id=1717745&q=GERMANY%2C+&search=y_general&taging_subtype=GERMANY",
+      "value": 1.4
+    }
+  ]
+}
