@@ -50433,10 +50433,15 @@
       "date": "2026-08-12",
       "period": "2026-08-12",
       "value": 2.25
+    },
+    {
+      "date": "2026-08-13",
+      "period": "2026-08-13",
+      "value": 2.25
     }
   ],
   "public_status": "PUBLIC_EXACT_API",
-  "retrieved_at": "2026-08-12T09:05:23Z",
+  "retrieved_at": "2026-08-13T07:04:43Z",
   "source_id": "ecb_data_portal_api",
   "source_note": "European Central Bank (ECB)",
   "units": {

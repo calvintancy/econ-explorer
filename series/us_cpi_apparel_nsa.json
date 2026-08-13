@@ -688,10 +688,15 @@
       "date": "2026-06-01",
       "period": "2026-06",
       "value": 135.917
+    },
+    {
+      "date": "2026-07-01",
+      "period": "2026-07",
+      "value": 134.182
     }
   ],
   "public_status": "PUBLIC_EXACT_API",
-  "retrieved_at": "2026-08-12T07:07:45Z",
+  "retrieved_at": "2026-08-13T07:04:35Z",
   "source_id": "bls_api",
   "source_note": "U.S. Bureau of Labor Statistics (BLS)",
   "units": {

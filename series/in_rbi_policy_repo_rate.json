@@ -5,13 +5,13 @@
   "notes": "RBI homepage Current Rates widget; policy repo rate as of retrieval",
   "observations": [
     {
-      "date": "2026-08-12",
-      "period": "2026-08-12",
+      "date": "2026-08-13",
+      "period": "2026-08-13",
       "value": 5.25
     }
   ],
   "public_status": "PUBLIC_EXACT_RELEASE",
-  "retrieved_at": "2026-08-12T09:37:17Z",
+  "retrieved_at": "2026-08-13T07:05:21Z",
   "source_id": "rbi_current_rates",
   "source_note": "Reserve Bank of India (RBI)",
   "units": {
