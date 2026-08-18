@@ -96,7 +96,6 @@ F08-11,Energy & commodity markets,Singapore electricity generation and fuel mix,
 F08-12,Energy & commodity markets,Broader commodity indices,global,M,NEEDS_REVIEW
 F08-13,Energy & commodity markets,Commodity shares of trade transiting the Strait of Hormuz (published estimates vary; range shown),SoH,static,PUBLIC_RECONSTRUCTED
 F08-14,Energy & commodity markets,Persian Gulf share of global energy and fertiliser supply (published estimates vary; range shown),Gulf,static,PUBLIC_RECONSTRUCTED
-F08-15,Energy & commodity markets,Channels of ME-conflict impact on food prices (4 channels: biofuel demand; farm diesel; processing electricity; fertiliser→yields),global,n/a,REQUIREMENT
 F08-16,Energy & commodity markets,Natural gas,Europe,M (D restricted),NEEDS_REVIEW
 F09-01,Singapore food prices,CPI: food; food excl. food services; food services,SG,M,PUBLIC_EXACT_API
 F09-04,Singapore food prices,Imported food price index (food and live animals),SG,M/Q,PUBLIC_EXACT_API
@@ -163,13 +162,11 @@ F16-10,Eurozone-specific indicators,Eurozone inflation expectations,,M/Q,PUBLIC_
 F17-01,Feature stories (descoped),Story template: 3–6 live charts + concise analytical narrative + source notes + methodology + publication/update dates,,,DESCOPED
 F17-02,Feature stories (descoped),"Story data-binding: charts are live app components on snapshot data, not screenshots",,,DESCOPED
 F17-03,Feature stories (descoped),Story index page + maintainable authoring format (Markdown/MDX),,,DESCOPED
-F17-04,Feature stories (descoped),Launch-content candidates reproducing the original story list where data permit: Trump 2.0 tariff impact (Mar 25); Exposure to US reciprocal tariffs (Apr 25); State of the US economy (Jun 25); Sea freight rates (Jul 25); US tariff pass-through & labour market (Sep 25); Thai economy & political volatility (Sep 25); China exports & US imports (Oct 25); US K-shaped economy (Jan 26); Global merchandise trade 2025 (Jan 26); US-Israel-Iran conflict impact (Mar–Jul 26); Indonesia outlook (Jun–Jul 26),,,DESCOPED
 F18-01,High-frequency dashboard panels & product structure,"Overview modules: global growth, trade, inflation, manufacturing, financial conditions, energy, SG growth/inflation/labour/mfg, current risks",,,REQUIREMENT
 F18-02,High-frequency dashboard panels & product structure,"Singapore summary table: GDP, NODX, IIP, retail sales, F&B, sea cargo, loans, visitor arrivals, unemployment, employment growth, MAS Core Inflation, FPI",,,REQUIREMENT
 F18-03,High-frequency dashboard panels & product structure,"Risk module: bullet list, 3–4 mechanistic downside risks (cause → channel → impact) + occasional upside (e.g. AI investment boom); opening-line conventions per inventory",,,REQUIREMENT
 F18-04,High-frequency dashboard panels & product structure,Panel grammar: analytical title; 1–2 charts with source citations; 3–6 sentence narrative (current reading → trend → mechanism → outlook),,,REQUIREMENT
 F18-05,High-frequency dashboard panels & product structure,,,,REQUIREMENT
-F18-06,High-frequency dashboard panels & product structure,Three-part IA echo: External Economies / Singapore Economy / High-frequency Dashboards (+ Feature Story / Special Section slots),,,REQUIREMENT
 X-01,requirements,Source status taxonomy applied to every indicator,,,REQUIREMENT
 X-02,requirements,Observation-level provenance schema,,,REQUIREMENT
 X-03,requirements,Forecast/actual/vintage separation everywhere (f‡ replaced by true provider labels),,,REQUIREMENT
